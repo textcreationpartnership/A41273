@@ -1,0 +1,869 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A defence of An apology for the people called Quakers being in answer to a book entituled Quakerism exposed, or, Some papers deliver'd to the King and Parliament / by John Field.</title>
+            <author>Field, John, 1652-1723.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 84 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41273</idno>
+            <idno type="STC">Wing F863</idno>
+            <idno type="STC">ESTC R29523</idno>
+            <idno type="EEBO-CITATION">11164741</idno>
+            <idno type="OCLC">ocm 11164741</idno>
+            <idno type="VID">46474</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41273)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46474)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1423:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A defence of An apology for the people called Quakers being in answer to a book entituled Quakerism exposed, or, Some papers deliver'd to the King and Parliament / by John Field.</title>
+                  <author>Field, John, 1652-1723.</author>
+                  <author>Bugg, Francis, 1640-1724? Quakerism exposed.</author>
+                  <author>Field, John, 1652-1723. An apology for the people called Quakers.</author>
+               </titleStmt>
+               <extent>[4], 32 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by T. Sowle,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  England --  Controversial literature.</term>
+               <term>Liberty of conscience --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Monica Tsuneishi</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Monica Tsuneishi</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:46474:1"/>
+            <pb facs="tcp:46474:1"/>
+            <p>A DEFENCE OF AN <hi>APOLOGY</hi> For the People called QUAKERS Being in Anſwer to a Book, Entituled, <hi>Quakeriſm Expoſed:</hi> OR, Some Papers deliver'd to the <hi>King</hi> &amp; <hi>Parliament.</hi>
+            </p>
+            <p>By <hi>JOHN FEILD.</hi>
+            </p>
+            <q>He that hideth Hatred with lying Lips, and he that uttereth a Slander is a Fool, <bibl>
+                  <hi>Prov. 10 18.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed and Sold by <hi>T. Sowle,</hi> in <hi>White-Hart-Court</hi> in <hi>Gracious-Street,</hi> and at the <hi>Bible</hi> in <hi>Leaden-Hall-Street,</hi> 1699.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:46474:2"/>
+            <pb facs="tcp:46474:2"/>
+            <head>TO THE Chriſtian Reader.</head>
+            <p>
+               <hi>I</hi> Here preſent thee with a Defence of an <hi>Apo<g ref="char:EOLhyphen"/>logy</hi> for that abuſed and miſrepreſented Peo<g ref="char:EOLhyphen"/>ple, called <hi>Quakers,</hi> and earneſtly deſire thy ſeri<g ref="char:EOLhyphen"/>ous Peruſal, and ſubmit it to thy Impartial Judg<g ref="char:EOLhyphen"/>ment.</p>
+            <p>Not Doubting thy Acceptance, if a true Lover of him, in whom Peace and Acceptance with God is known.</p>
+            <p>Becauſe, whatever Prejudices there may be in ſome Men, one to another, there's none in him; neither can it be entertained in any that ſincerely Love and Live in Jeſus Chriſt, the dear Son of the Father's Love, whom God hath ſent a <hi>Light into the World;</hi> and is come to deſtroy the Works of the Devil, and all Envy and Malice in thoſe that truly Receive him: And to Preſerve and Deliver thoſe that are truly his, from the Hands of unreaſonable Men, who are in Confederacy againſt a People, he hath ga<g ref="char:EOLhyphen"/>thered to be the <hi>Sheep of his Paſture.</hi>
+            </p>
+            <p>Remember, it was the <hi>Chief Prieſts</hi> and <hi>Pha<g ref="char:EOLhyphen"/>riſees,</hi>
+               <pb facs="tcp:46474:3"/> that gathered together in Council againſt our <hi>Saviour,</hi> and ſaid, <hi>What do we, if we let him alone, all Men will believe in him, and the</hi> Romans <hi>ſhall come and take away both our Place and Nation?</hi>
+            </p>
+            <p>
+               <hi>And when Satan entered into</hi> Judas, <hi>he went his way, and communed with the Chief Prieſts and Captains, how he might betray him; and they were glad, and covenanted to give him Money.</hi>
+            </p>
+            <p>And it was <hi>Demetrius</hi> that cried out, and made <hi>no ſmall Stir</hi> againſt that Way <hi>Paul</hi> taught; being ſenſibly touched with an Apprehenſion, the <hi>Craft</hi> he got his Gain by was in danger.</p>
+            <p>And it was proud <hi>Haman</hi> that informed the King, <hi>That there was a certain People ſcattered abroad, and diſperſed among the People, and their Laws were diverſe from all People; neither keep they the Kings Law's;</hi> ſee Eſther <hi>3.8.</hi>
+            </p>
+            <p>But the Lord, that in every Age was mindful of his Suffering People; <hi>and in all their Afflictions,</hi> that by wicked Inſtruments he ſuffered to come upon them, <hi>he was Afflicted, and the Angel of his Preſence ſaved them;</hi> for he knew their Innocency, however they were Miſrepreſented and Reproached by his and their Enemies: And therefore he then, as now, hath ſupported, and been with them, in and
+<pb facs="tcp:46474:3"/> under all the Reproaches, Cruel Mockings, and great Sufferings, they have hitherto met withal: Of which I have in Brief given ſome Account.</p>
+            <p>And it's the Lord that hath been and is their <hi>Light and Salvation, whom then ſhall they fear?</hi> And he hath been the <hi>Strength of their Life, of whom then ſhall they be afraid?</hi> Surely I may ſay, theſe have no cauſe of Fear, be<g ref="char:EOLhyphen"/>cauſe they are Innocent: And therefore I pray they may be preſerved therein, and that will be their Defence, as it is mine.</p>
+            <p>And then the Government, under which they Live, will have juſt Cauſe <hi>more</hi> to Credit what their Eyes ſee of their Peaceable Converſations, and what they, with Thouſands, have been and are Witneſſes of, than the falſe Suggeſtions and Inſinuations of thoſe Men; whoſe Intereſt and Prejudice is againſt this People, that truly <hi>Fear God, Honour the King, Love all Men, Live Honeſtly, Do Juſtly,</hi> are <hi>Peaceable</hi> and <hi>Inoffenſive</hi> to thoſe that do not Offend God: And if thoſe that Offend God, are offended with them or me, I pray God forgive them; keep me, and incline them to the Practice of that <hi>Holy Religion</hi> Chriſt was the Founder of; and in that <hi>Chriſtian Charity,</hi> which is the moſt Excellent Gift; and in that Spirit, which all that are the Sons of God are led by.</p>
+            <pb facs="tcp:46474:4"/>
+            <p>In which <hi>Chriſtian Spirit,</hi> I deſire thou may'ſt be found, and therein duly Weigh, and ſeriouſly Con<g ref="char:EOLhyphen"/>ſider, how greatly this Deſpiſed People have Suffered in <hi>Body, Eſtate, Good Name,</hi> and <hi>Chriſtian Reputation,</hi> by Severity on their <hi>Bodies,</hi> Havock on their <hi>Eſtates,</hi> Revilings on their Holy Profeſſion, falſe Accuſation and Miſrepreſentations of their <hi>Chri<g ref="char:EOLhyphen"/>ſtian Doctrine and Principles.</hi>
+            </p>
+            <p>All which, as they have abode in the <hi>Faith and Patience of the Lamb of God,</hi> they have been enabled to endure, and go through, hitherto; for which they, in Humility, give Holy Praiſe to him, that hath ſupported them, and have Faith and Confidence in him, that he will never leave nor forſake them, as they con<g ref="char:EOLhyphen"/>tinue in their <hi>Chriſtian Duty,</hi> and abide in <hi>Faith, Hope,</hi> and <hi>Charity:</hi> In which, I pray, that all who Profeſs that worthy Name, may be found; then will <hi>Pride</hi> be abated, <hi>Envy</hi> rooted out, <hi>Humility</hi> ſpring, and <hi>Love</hi> encreaſe. So be it, ſaith,</p>
+            <closer>
+               <signed>Thy Sincere and Cordial Friend, <hi>J. F.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:46474:4"/>
+            <head>A DEFENCE OF AN <hi>APOLOGY,</hi> &amp;c.</head>
+            <p>THE Peaceable Chriſtians, in Days that are paſt, were accounted <hi>Hereticks,</hi> called <hi>Movers of Se<g ref="char:EOLhyphen"/>dition,</hi> and their <hi>Holy Religion</hi> was almoſt every where <hi>ſpoken Evil againſt:</hi> Nor could they ex<g ref="char:EOLhyphen"/>pect any better Treatment from an untoward Generation, than what their Lord and Maſter <hi>Jeſus Chriſt</hi> met with; who was render'd a <hi>Blaſphemer,</hi> by thoſe that pretended great Loyalty to, and would own no other King but <hi>Caeſar:</hi> And yet, it was not long after, but they rebelled againſt <hi>him,</hi> whom they pretended great regard to, that they might get their Revenge executed upon <hi>Jeſus;</hi> in whom no Cauſe of Death, or any Fault was found, as <hi>Pilate</hi> the <hi>Ro<g ref="char:EOLhyphen"/>man Governour,</hi> who examined him, declared.</p>
+            <p>And when the Exclaimers againſt, and falſe Accuſers of Chriſt, had their wicked Ends anſwered; they themſelves were found to be Rebels to <hi>Caeſar,</hi> and the true Diſciples and Followers of Chriſt, Peaceable Chriſtians.</p>
+            <p>But what related to their Holy Religion, their Way and Worſhip of the great God of Heaven and Earth, was then accounted as <hi>New, Strange,</hi> and <hi>as much ſpoken againſt,</hi> as 'tis now; and their <hi>Teſtimony</hi> and <hi>Doctrine</hi> ſtruck as much at the <hi>High Prieſts, Learned Rabbies,</hi> and <hi>Great Doctors Hie<g ref="char:EOLhyphen"/>rarchy,</hi>
+               <pb n="2" facs="tcp:46474:5"/> in that Day, as many eſteem, the <hi>Quakers Teſtimony</hi> and <hi>Doctrine</hi> do at thoſe of this Day.</p>
+            <p>Nor were the <hi>Apoſtles,</hi> whom <hi>Chriſt</hi> made Choice of, and ſent forth, Men that were brought up in <hi>Academical Learning;</hi> but were for the moſt part Illiterate Perſons; of whom the <hi>Phariſees</hi> contemptuouſly ſaid, <hi>John</hi> 7.49. <hi>This People, who knoweth not the Law, are curſed.</hi> And for that reaſon, among others; they were then as much Deſpiſed, Vilified, and Ridiculed, as thoſe now are; whom <hi>Chriſt</hi> hath Called, Commiſſionated, and Sent forth in his <hi>Work</hi> and <hi>Service,</hi> in this <hi>Day of his Bleſſed and Glorious Appearance.</hi>
+            </p>
+            <p>Againſt whom, ſome that eſteem themſelves Learned, have lately appeared in Print, with a Pretended <hi>Brief Diſ<g ref="char:EOLhyphen"/>covery, of ſome of the Blaſphemous and Seditious Principles and Practices of the People called</hi> Quakers; <hi>taken</hi> (as they ſay) <hi>out of their moſt noted and approved Authors, and ſaid to be Humbly Offered to the</hi> King, <hi>and both</hi> Houſes <hi>of Parlia<g ref="char:EOLhyphen"/>ment.</hi> See G. <hi>W</hi>'s <hi>Brief Examination,</hi> in Anſwer there<g ref="char:EOLhyphen"/>unto.</p>
+            <p>Now, I having written a <hi>Brief Apology</hi> on the behalf of the ſaid People, and an <hi>Appeal</hi> to the Inhabitants of <hi>Nor<g ref="char:EOLhyphen"/>folk</hi> and <hi>Suffolk,</hi> &amp;c. One <hi>Francis Bugg</hi> hath taken Occaſion to carp at ſome Paſſages therein, which he hath pick'd out, and patch'd together; for after mentioning part of the <hi>Title,</hi> he takes a Sentence out of the 9th Page, then he goes back to the 5th, then forward to the 7th, and back again to the 1ſt.</p>
+            <p>And therefore I ſhall cite the Paragraphs as they lie in the <hi>Apology,</hi> and put the words he hath pick'd out in <hi>Black;</hi> that the Reader may be the better capable to make a Judg<g ref="char:EOLhyphen"/>ment of his Diſingenuous Dealing by me, beginning with the laſt firſt; becauſe it's in the 1ſt Page, and is as followeth,</p>
+            <p>
+               <q rend="margSglQuotes">Suffer me to Expoſtulate with you, on behalf of theſe <hi>Abuſed People</hi> in your Counties, that have of late been render'd <hi>Blaſphemers;</hi> and to Apologize a little for
+<pb n="3" facs="tcp:46474:5"/> them; whom, <hi>ſome</hi> among you have lately often <hi>Aſſem<g ref="char:EOLhyphen"/>bled</hi> and <hi>Conſulted</hi> together, how they might (by Sub<g ref="char:EOLhyphen"/>tilty and Miſrepreſentation) Incenſe you (and by you, thoſe in Authority) <hi>againſt theſe Innocent People,</hi> and your Peaceable Country-Men and Neighbours, <hi>that the Monſter of Perſecution might be again raiſed, and let looſe on them, to ſuppreſs them.</hi>
+               </q>
+            </p>
+            <p>
+               <hi>Reply.</hi> Now, what juſt Occaſion hath this Man to be angry with me, for terming this <hi>People,</hi> for whom I Apo<g ref="char:EOLhyphen"/>logize, an <hi>Innocent People,</hi> and Peaceable Neighbours? Have they not in their <hi>Lives</hi> and <hi>Converſations,</hi> in and under the various Sorts of Government, wherein they have lived, ſo demeaned themſelves? I leave this to the <hi>Juſt Principle</hi> which God hath placed in every Man, that hath known them, to anſwer. Why is this Man ſo an<g ref="char:EOLhyphen"/>gry? Had he rather they ſhould be <hi>Nocent</hi> than <hi>Innocent?</hi> If they were indeed a <hi>People that Fired Houſes, and Poiſon<g ref="char:EOLhyphen"/>ed Rivers,</hi> as he mentions, and were duely convicted there<g ref="char:EOLhyphen"/>of; though they ſhould pretend, they followed the <hi>Light of Chriſt within</hi> (which <hi>Light</hi> never leads any into ſuch Practices) then the Law, which is made for Tranſgreſ<g ref="char:EOLhyphen"/>ſors; and Magiſtrates, which ſhould not bear the Sword in vain, might juſtly puniſh them for their Evil Doings: But ſurely, it doth not therefore follow, that thoſe who truly Believe in <hi>Chriſt Jeſus,</hi> and follow the <hi>True Light, that lighteth every Man that cometh into the World,</hi> muſt Suf<g ref="char:EOLhyphen"/>fer for their Faith in him, and abiding in his Doctrine: For this, under what pretence ſo ever it may be, would be <hi>Perſecution;</hi> which ſurely I might as well term, the <hi>Mon<g ref="char:EOLhyphen"/>ſter of Perſecution,</hi> as <hi>F. Bugg</hi> a <hi>Badge of a Falſe Church,</hi> for he declares in his <hi>Poſtſcript</hi> thus: <q rend="margSglQuotes">I do profeſs my ſelf a <hi>Member</hi> of the <hi>Church of England,</hi> I have often and do now again tell you, that <hi>I am againſt Perſecution</hi> and will add, that <hi>Perſecution for Righteouſneſs ſake is a Badge of a falſe Church.</hi>
+               </q>
+            </p>
+            <pb n="4" facs="tcp:46474:6"/>
+            <p>And yet in the latter part of King <hi>Charles</hi> the 2d's <hi>Reign,</hi> there were 1460 of <hi>theſe People</hi> Priſoners; <hi>only</hi> for their Abi<g ref="char:EOLhyphen"/>ding in the Doctrine of <hi>Chriſt,</hi> and peaceably Meeting to<g ref="char:EOLhyphen"/>gether to Worſhip him, in Spirit and in Truth; and great <hi>Spoil</hi> and <hi>Havock</hi> were alſo made upon the <hi>Goods and Eſtates</hi> of theſe Innocent People for the ſame. And many were Proſecuted for not going to their <hi>Pariſh Churches,</hi> ſo called, when they were Priſoners upon other Accounts, as well as for Meeting, <hi>viz.</hi> on Writs <hi>De Excommunicato capiendo,</hi> and as <hi>Popiſh Recuſants,</hi> for 20 <hi>l. per Month,</hi> and ⅔ of their <hi>Eſtates:</hi> And by Law many of theſe People might have been Burnt at the Stake, if the Writ <hi>De Haeretico Com<g ref="char:EOLhyphen"/>burendo</hi> had not been Repealed.</p>
+            <p>I do heartily wiſh, that no People, profeſſing <hi>Chriſtia<g ref="char:EOLhyphen"/>nity,</hi> may ever wear this <hi>Badge</hi> more, nor raiſe the <hi>Mon<g ref="char:EOLhyphen"/>ſter of Perſecution</hi> in this Nation again: But that <hi>Liberty of Conſcience</hi> may for ever be continued to all that Live Peaceably under the Government: It being moſt agree<g ref="char:EOLhyphen"/>able to the Nature of <hi>True Chriſtianity,</hi> and to the whole Tenor of the Doctrine and Practice of <hi>Chriſt,</hi> and his <hi>Apoſtles.</hi>
+            </p>
+            <p>
+               <hi>Apology.</hi> p. 9. <q rend="margSglQuotes">And if theſe People muſt be accounted <hi>Blaſphemers,</hi> if they diſown not thoſe <hi>Books,</hi> or their <hi>Friends</hi> that writ them, without ſeeing the <hi>Books,</hi> or what's in them; how can they be either Juſt to their <hi>Friends,</hi> or True to Themſelves? For, ought any Man to condemn another, without full Hearing, and due Exa<g ref="char:EOLhyphen"/>mination? Or <hi>would thoſe Clergy-Men account it Juſt, that any ſhould Charge them</hi> as the higheſt of Criminals, and <hi>Condemn and Sentence them</hi> (but he hath put <hi>Cenſure</hi>) 'as ſuch, for what ſome of their Bre<g ref="char:EOLhyphen"/>thren have Writ in Books, which they never ſaw, nor read, nor knew? If not, why ſhould the <hi>Quakers,</hi> with<g ref="char:EOLhyphen"/>out ſeeing the <hi>Books,</hi> and examining the Contents, be obliged to condemn their <hi>Friends,</hi> for Publiſhers of
+<pb n="5" facs="tcp:46474:6"/> 
+                  <hi>Blaſphemy,</hi> or be eſteemed <hi>Blaſphemers?</hi> Conſider this I beſeech you, and examine whether it agrees with Chriſt's Doctrine, <hi>All things, whatſoever ye would that Men ſhould do unto you, do ye even ſo to them;</hi> for this is the Law and the Prophets? Or whe<g ref="char:EOLhyphen"/>ther there is any ground to conclude, that the Chargers would ever have refuſed to have given the account de<g ref="char:EOLhyphen"/>ſired by the <hi>Quakers;</hi> if they had been well aſſured, that by the expreſs words of theſe <hi>Books,</hi> out of which they pretend to prove their Charge, it would be clearly and evidently proved.</q>
+            </p>
+            <p>Now to the words that are in Black, <hi>F. Bugg</hi> ſaith, <q rend="margSglQuotes">they are both Charged and Condemned, juſt or unjuſt, at the <hi>Quakers</hi> Bar; and therein the <hi>Quakers</hi> are Groſs Hypocrites and Diſſemblers with God and Man.</q>
+            </p>
+            <p>
+               <hi>Reply.</hi> An high Charge, but not proved, That the <hi>Quakers,</hi> juſt or unjuſt, have Condemned and Sentenced thoſe <hi>Clergy-Men,</hi> ſo called; without full Hearing, and due Examination, for what ſome of their <hi>Brethren</hi> have writ in Books, which they never ſaw, or read, or knew the Con<g ref="char:EOLhyphen"/>tents of. Oh Injurious Man! To ſuggeſt ſuch a <hi>Groſs Falſhood,</hi> and then call the <hi>Quakers Groſs Hypocrites</hi> and <hi>Diſſemblers,</hi> and render them ſuch as do not, as they would be done by: But what other can we expect from ſuch an <hi>
+                  <g ref="char:V">Ʋ</g>nfair Adverſary?</hi>
+            </p>
+            <p>
+               <hi>Apology.</hi> p. 5. Out of this Paragraph, which I ſhall re<g ref="char:EOLhyphen"/>cite at large, <hi>F. Bugg</hi> hath pick'd a few words, which I ſhall diſtinguiſh again by <hi>Black Characters.</hi>
+            </p>
+            <p>
+               <q rend="margSglQuotes">But theſe People, for whom I Apologize and Appeal to you, how ever they are or may be Rendered and Repre<g ref="char:EOLhyphen"/>ſented, by <hi>Men of Evil Deſigns and Perſecuting Spirits,</hi> Have, Do, and by the <hi>Lord's Aſſiſtance,</hi> are Reſolved to Continue <hi>Quiet in the Land;</hi> and in their Chriſtian Duty and Pra<g ref="char:EOLhyphen"/>ctice, of making Supplications, Prayers (he ſaith <hi>Pray</hi>) Interceſſions, and giving of Thanks <hi>for all Men, for
+<pb n="6" facs="tcp:46474:7"/> Kings, and for all that are in Authority,</hi> that we may <hi>lead a quiet and peaceable Life, in all Godlineſs and Honeſty: for this is good and acceptable in the ſight of God our Saviour, who will have all Men to be ſaved, and to come unto the Knowledge of the Truth.</hi>
+               </q>
+            </p>
+            <p>This, <hi>F. Bugg</hi> ſaith, is ſo falſe and fallacious, that I Challenge the whole World to prove one Inſtance of your Praying for <hi>King William,</hi> or any <hi>King.</hi>
+            </p>
+            <p>A Bold Challenge, but as Falſe as Bold: For our Prin<g ref="char:EOLhyphen"/>ciple leads us, and our Practice is as I have before affirm<g ref="char:EOLhyphen"/>ed, to Pray for all Men; for <hi>Kings,</hi> and thoſe in <hi>Autho<g ref="char:EOLhyphen"/>rity,</hi> that we may lead a quiet and peaceable Life, in all Godlineſs and Honeſty; and if we do not in our Prayers to Almighty God, recite the Names of <hi>Kings,</hi> or of the <hi>King</hi> of the Nation wherein we live, he cannot prove that ſuch an Omiſſion is contrary to the Holy Scriptures, and the Example of the Apoſtles. Beſides our peaceable Lives and due Subjection unto thoſe in Authority, evidently manifeſt to them, who have impartially obſerved us, that <hi>we own the Powers that are to be ordained of God.</hi>
+            </p>
+            <p>
+               <hi>Apology,</hi> p. 7. <q rend="margSglQuotes">And although in ſome things they have ſeemed to differ from thoſe of other Perſwaſions; yet who can convict them of Error in any Fundamental Doctrine of the Chriſtian Religion? Or, of their not holding that which is truly <hi>Eſſential</hi> to Salvation, and agreeable to the <hi>Holy Scriptures?</hi> Which Holy Records (however they have been Miſrepreſented, or falſly Ac<g ref="char:EOLhyphen"/>cuſed, as Slighters and Contemners of them) I do de<g ref="char:EOLhyphen"/>clare on their behalf, they have <hi>always had,</hi> and ſtill have a high Eſteem and true <hi>Value</hi> for them, <hi>above all other</hi> Writings or <hi>Books:</hi> And their frequent uſe of them, and preſſing their Children and Servants to the reading therein, may ſufficiently Demonſtrate to thoſe that know them, the Innocency of this abuſed People.</q>
+            </p>
+            <pb n="7" facs="tcp:46474:7"/>
+            <p>
+               <hi>This,</hi> F. Bugg, ſaith, <hi>is falſe with a Witneſs; and ſo you muſt give me leave to whip this</hi> John Field, for his deep Hypocriſie and Deceit; <hi>and I wiſh it may do him good. What, to pretend that the</hi> Quakers <hi>value the</hi> Bible <hi>above all Books; then conſequently above their own? This is ſuch a Lye, that it ſtabs it ſelf.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> This I am a Witneſs is true, although <hi>F. Bugg</hi> ſaith it is falſe with a Witneſs; for which confident Aſ<g ref="char:EOLhyphen"/>ſertion, he hath produced no other proof, but his own <hi>Ipſe dixit,</hi> which with ſober and moderate Men, is of no Moment or Validity; ſeeing he hath aſſumed to himſelf that Extravagant Liberty, of writing what Malice and En<g ref="char:EOLhyphen"/>vy prompt him to.</p>
+            <p>And therefore I do affirm, that the <hi>Quakers</hi> always had, and ſtill have, an high Eſteem of, and true Value for the <hi>Holy Scriptures;</hi> as they contain the Revealed Will of God, ſpeaking to us either through his Holy Prophets, or Apoſtles, or by Jeſus Chriſt his only Begotten Son, our Lord and Saviour: In this Senſe we do, and ever did, va<g ref="char:EOLhyphen"/>lue them above all other <hi>Writings</hi> and <hi>Books,</hi> &amp;c. yet as they conſiſt of <hi>Ink, Paper,</hi> and <hi>various Characters,</hi> they are Corruptible, and will return to Duſt, from whence they came: And if <hi>F. Bugg</hi> can deny it, let him. And when I ſaid, that I eſteemed them (<hi>viz.</hi> the <hi>Holy Scriptures</hi>) above all other Writings or Books, <hi>&amp;c.</hi> I ſpake of them, with reſpect to the Holy Doctrines contained therein.</p>
+            <p>Now what cauſe <hi>F. B.</hi> hath to call me <hi>Lyar</hi> and <hi>Hy<g ref="char:EOLhyphen"/>pocrite,</hi> &amp;c. let the impartial Reader judge.</p>
+            <p>And, if where <hi>G. F.</hi> or any of our <hi>Friends,</hi> ſpeak of them in the ſame Senſe that I did, our <hi>Adverſaries</hi> will pervert their Meaning, and wreſt it to another, quite contrary to what they intended; thereby rendering them as Perſons that undervalue their Evidence, it is their own Fault; for it's evident from our <hi>Friends</hi> quoting them in their Writings, and bringing them as <hi>Evidences,</hi> for Proof of
+<pb n="8" facs="tcp:46474:8"/> their Doctrines, that they have an high Eſteem and Va<g ref="char:EOLhyphen"/>lue for them; for who can be ſuppoſed to undervalue that, which they bring for <hi>Evidence</hi> and <hi>Confirmation</hi> of what they deliver?</p>
+            <p>And for my own part, I can truly ſay, that ever ſince I knew the difference of <hi>Writings,</hi> and was capable to Judge between them, I preferred the <hi>Holy Scriptures</hi> to all other extant; and that I wrote not this to ſerve a <hi>Pre<g ref="char:EOLhyphen"/>ſent Turn,</hi> as <hi>F. B.</hi> falſly ſuggeſts: For I have done it many Years ſince in my <hi>Friendly Advice,</hi> p. 12. wherein is a <hi>Chapter,</hi> in which <q rend="margSglQuotes">I exhort Children to avoid telling <hi>Idle Tales,</hi> and to read and learn the <hi>Holy Scriptures,</hi> ac<g ref="char:EOLhyphen"/>cording to the Examples of <hi>Ancient Proteſtants,</hi> and Quoted Inſtances.</q>
+            </p>
+            <p>And therefore I may juſtly revert his own Words upon him, and ſay, <hi>This is ſuch a Ly, that it ſtabs it ſelf;</hi> or rather him that told it, <hi>F. B.</hi> But as he quotes <hi>G. White<g ref="char:EOLhyphen"/>head,</hi> who long before, on behalf of the People called <hi>Quakers,</hi> declared to the <hi>King,</hi> 
+               <q rend="margSglQuotes">We are free to Vindicate any Principle we hold according to <hi>Scripture;</hi> So it ſhews, we give it the Preference to all other Books.</q>
+            </p>
+            <p>Again, <hi>F. B</hi>'s Quotation out of <hi>Edw. Burroughs</hi>'s Works, (but not mentioning the Page) is as little to his purpoſe, as his Citing <hi>G. W. viz.</hi>
+            </p>
+            <p>
+               <q rend="margSglQuotes">And ſo gladly would we be made manifeſt to all the World, that if any, eſpecially the <hi>Heads</hi> and <hi>Rulers,</hi> have any doubt concerning us, <hi>for that End,</hi> let any Propound, that we with <hi>Conſent of Authority</hi> [mark, <hi>E. B.</hi> had Regard to Authority] meet, <hi>&amp;c.</hi>
+               </q>
+            </p>
+            <p>
+               <hi>Reply.</hi> For this Propoſal was made by <hi>E. B.</hi> to ſhew how ready they were, with <hi>Submiſſion to Authority,</hi> to ſa<g ref="char:EOLhyphen"/>tisfie the Doubts of thoſe <hi>Rulers</hi> and <hi>Heads</hi> in Authority, or any elſe, to whom by ſome prejudiced Prieſts and otherr, this Innocent People were then, as much Miſrepreſented, as they are now.</p>
+            <pb n="9" facs="tcp:46474:8"/>
+            <p>And this Propoſal of <hi>E. B</hi>'s was Impertinently Urged by Doctor <hi>Beckham</hi> at <hi>Weſt-Dereham</hi> in <hi>Norfolk,</hi> to ſettle the Preliminaries of that <hi>Particular Conference,</hi> (with re<g ref="char:EOLhyphen"/>ſpect to which our <hi>Friends</hi> were then met, purſuant to the time prefixt by thoſe very <hi>Prieſts</hi> in <hi>Norfolk,</hi> that with <hi>F. Bugg</hi> had Challenged and Charged them with many Blaſphemies;) upon which our <hi>Friends</hi> perceiving their Deceit, in pretending by that which was written above 35 Years ſince, to ſettle the Preliminaries of <hi>that Particular Conference,</hi> ſaid; <q rend="margSglQuotes">How ſhould that which was written ſo long ſince, anſwer the End it's urged to be read for? Or what's this to a Copy of your Charge, or to an Account of <hi>Books, Titles</hi> and <hi>Pages,</hi> out of which ye pretend to Charge us. Give us that, and let us mutually Agree to Time and Place, and then ſettle Preliminaries. But this we could not get them to, tho' we proffered to pay for it;</q> and now <hi>F. B</hi>'s offended, and ſaith, <hi>Theſe were no Argu<g ref="char:EOLhyphen"/>ments, ſince you pretend to write from the Lord, moved there<g ref="char:EOLhyphen"/>to by the Holy Ghoſt.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> If it be a Fault to write from the Mouth of the Lord, moved thereto by the Holy Ghoſt, I conclude <hi>F. B.</hi> is not guilty: But if none (as is falſly ſuggeſted) are mo<g ref="char:EOLhyphen"/>ved by the Holy Ghoſt, to write from the Mouth of the Lord, what are they moved by? Or, from whoſe Mouth do they write, who Scribble againſt us, and Trouble the <hi>King</hi> and <hi>Parliament</hi> with their Lies and Slanders? Let him tell in his next.</p>
+            <p>
+               <hi>But this your Shuffle,</hi> ſaith <hi>F. B. ſhewed the Juſtices of Peace, the Gentry and Clergy, as well as the Proteſtant Diſ<g ref="char:EOLhyphen"/>ſenters, that your Principles are ſo deſtructive to Common Chriſtianity. — And this; yea, only this, ſo far as I know, put them upon a Petition to the Houſe of Commons.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> I deny (and let him prove if he can) that this, yea, <hi>only</hi> this, ſhewed the <hi>Juſtices of Peace, Gentry,</hi> and <hi>Cler<g ref="char:EOLhyphen"/>gy</hi> (ſo called) and <hi>Proteſtant Diſſenters,</hi> that the <hi>Quakers</hi>
+               <pb n="10" facs="tcp:46474:9"/> Principles are ſo deſtructive to Common Chriſtianity; for then the Diſcovery is but of late Date, if this <hi>only</hi> put them upon a <hi>Petition to the Honourable Houſe of Commons.</hi> Pray let <hi>F. Bugg,</hi> who aſſerts this as above, make it appear to the <hi>King,</hi> and both <hi>Houſes of Parliament,</hi> That this <hi>only</hi> put them upon it; and that they are, as he confidently tells the <hi>King,</hi> and both <hi>Houſes of Parlia<g ref="char:EOLhyphen"/>ment,</hi> Unanimous herein: For if ſo, there is not one of all the <hi>Sorts,</hi> but what's conſenting thereto, or hath been actually concerned in a <hi>Petition</hi> to the <hi>Honourable Houſe of Commons,</hi> againſt the <hi>Quakers;</hi> for <hi>this,</hi> yea, only <hi>this,</hi> viz. <hi>the Quaker's Shuffle,</hi> as he falſly ſays, at <hi>Weſt-Dereham:</hi> When they met there, ſome <hi>Clergy,</hi> ſo called, that with <hi>F. Bugg</hi> had Challenged the <hi>Quakers,</hi> and Charged them with <hi>Blaſphemy againſt God, Jeſus Chriſt, and the Holy Scriptures.</hi>
+            </p>
+            <p>But if it be not ſo, as many beſides my ſelf can Teſtifie it is not; then the <hi>Parliament</hi> may be hereby informed, that he hath not truly Repreſented <hi>themſelves:</hi> For they are in<g ref="char:EOLhyphen"/>cluded in his General Words, <hi>viz.</hi> the Unanimous Conſent of all <hi>Proteſtants,</hi> as he affirms, in his falſe and envious <hi>Sheet</hi> delivered to the <hi>Parliament.</hi>
+            </p>
+            <p>Now, what Credit is to be given to ſuch a falſe Aſſerter as this? And let him tell, if he can, what he means by that <hi>Common Chriſtianity</hi> which the <hi>Quakers Principles</hi> are ſo deſtructive to; and whether he means thereby ſome Common and Baſe Profeſſors of it, or the Looſneſs, Pride, Swearing, Cozening, Cheating, and Debauched Practices; or the Lying, Envy, and Hatred, which ſuch Profeſſors are found in, that the <hi>Quakers Principles</hi> are ſo deſtructive to; or what elſe it is he intends thereby? But <hi>F. B.</hi> pro<g ref="char:EOLhyphen"/>ceeds thus:</p>
+            <p>
+               <hi>One</hi> John Field (whom he calls the <hi>Quakers Tool) com<g ref="char:EOLhyphen"/>pared ſome, called</hi> Clergy-Men, <hi>and one or two</hi> Presbyterian Preachers, <hi>to</hi> Herod <hi>and</hi> Pilate; <hi>and</hi> ſome Body <hi>elſe he
+<pb n="11" facs="tcp:46474:9"/> compared to</hi> Haman <hi>and</hi> Judas; <hi>and ſaid,</hi> Field, <hi>Do not blame till you examine.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> Paſſing by his Scoffing Reflection of the <hi>Quakers Tool,</hi> I grant the Subſtance of this is true; and they that will peruſe my <hi>Apology,</hi> p. 4, 5, and 7. and <hi>not Blame till they have Examined,</hi> may find theſe words therein. But I did not ſay, that <hi>F. Bugg</hi> was like <hi>Judas;</hi> or that <hi>Haman</hi> and <hi>Judas</hi>'s End might be his; for I pray God it may not: But that he may come, if it be the Lord's Will, to ſee his Out-goings, Repent of his Evil, and Bely<g ref="char:EOLhyphen"/>ing of an Innocent People, that I am perſwaded never de<g ref="char:EOLhyphen"/>ſigned him any Harm, and may find Mercy with God to his poor and never-dying Soul.</p>
+            <p>But <hi>F. Bugg</hi> ſaith, <hi>'This you are deeply ſenſible of, elſe you would not be ſo ſtartled and affrighted, becauſe of the</hi> Petition, <hi>which n<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ther incites to</hi> Perſecution, <hi>nor any</hi> Alteration <hi>of the</hi> Act of Toleration <hi>of</hi> Proteſtant Diſſenters.</p>
+            <p>
+               <hi>Anſw.</hi> We are neither ſenſible of it, nor ſo ſtartled and affrighted, as he ſuggeſts; for we well know what it is to <hi>Suffer Perſecution for Righteouſneſs ſake,</hi> and have found to our great Comfort, that the Lord hath been our Sup<g ref="char:EOLhyphen"/>port, in and under all our <hi>Sufferings, Cruel Mockings, Spoiling of Goods, Sore and Long Impriſonments, Evil Treatments</hi> and <hi>Miſrepreſentations by our Adverſaries;</hi> who have done what they can to render us Frightful and Dangerous, and to ac<g ref="char:EOLhyphen"/>count us (as they did our bleſſed Lord and Saviour) <hi>Blaſ<g ref="char:EOLhyphen"/>phemous Enemies to Caeſar,</hi> Dangerous to the <hi>Common-Wealth, Deceivers, Cheats,</hi> and <hi>Impoſtors:</hi> In which wick<g ref="char:EOLhyphen"/>ed Work ſome few <hi>Hot and Angry Prieſts,</hi> that had more <hi>Paſſion</hi> than <hi>Prudence;</hi> in Conjunction with ſome <hi>Envious Deſerters</hi> and <hi>Renegades,</hi> that have been filled more with <hi>Rage</hi> than <hi>Reaſon,</hi> and with <hi>Clamours</hi> than <hi>Solid Argu<g ref="char:EOLhyphen"/>ments,</hi> have endeavoured to Stir up the <hi>Magiſtrates,</hi> to be the <hi>Executioners</hi> of their <hi>Wrath</hi> and <hi>Fury;</hi> they wanting Power, tho not will, in themſelves to Execute them upon us.</p>
+            <pb n="12" facs="tcp:46474:10"/>
+            <p>Yet ſo <hi>ſeemingly</hi> tender is <hi>Francis Bugg,</hi> as to ſay, the <hi>Petition</hi> neither incites to <hi>Perſecution,</hi> nor any <hi>Alteration of the Act of Toleration</hi> of <hi>Proteſtant Diſſenters:</hi> But only that the <hi>Quakers Principles</hi> and <hi>Practices</hi> may be ſtrictly examin<g ref="char:EOLhyphen"/>ed, and <hi>Cenſured</hi> or <hi>Suppreſſed.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> What then! may new <hi>Rome,</hi> as he falſly accounts the <hi>Quakers;</hi> and <hi>Popiſh Emiſſaries,</hi> which the <hi>Petitioners</hi> ſuggeſt are among them, be tolerated and eſteemed Prote<g ref="char:EOLhyphen"/>ſtant Diſſenters? What a Change is here!</p>
+            <p>
+               <hi>But,</hi> ſaith <hi>F. B. the</hi> Petition <hi>neither incites to</hi> Perſecution, <hi>nor any</hi> Alteration of the Act of Toleration, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> Here he endeavours to put a fair Gloſs upon a foul Deſign, and to make his Readers believe, that no <hi>Per<g ref="char:EOLhyphen"/>ſecution</hi> was intended by <hi>the Petitioners.</hi> But can any thing be more plain and obvious, than that Perſecution, was the main Purport of that Petition, ſince the Suppreſſing of the Principles and Practices of the People called <hi>Quakers,</hi> is the concluding Part of their Prayer to the <hi>Parliament?</hi> And is this poſſible to be effected, without exerciſing <hi>great Cruel<g ref="char:EOLhyphen"/>ty</hi> on the <hi>Perſons</hi> or <hi>Eſtates</hi> of the ſaid <hi>People?</hi> And what is ſuch Cruelty, but <hi>Perſecution?</hi> Yet,</p>
+            <p>
+               <hi>This, ſaith</hi> F. Bugg, <hi>is the Subſtance of what is deſired in the Petition which doth ſo ſtartle you, which is a great Sign that you are convicted of Errors in</hi> Fundamentals.</p>
+            <p>
+               <hi>Reply.</hi> Then it ſeems the <hi>Subſtance</hi> is, that under a <hi>Pre<g ref="char:EOLhyphen"/>tence</hi> they are not for <hi>Perſecution,</hi> they pray to have our <hi>Principles Examined,</hi> or <hi>Suppreſſed:</hi> And becauſe we inform the People of what their Words and Petition import, <hi>F. Bugg</hi> ſuggeſts; that it ſtartles us, and is a great Sign that we are convicted of Errors in Fundamentals. But this to me is rather a Sign that his Words are ſhort of Proof, when he ſaid, <hi>I can, I have convicted them of Errors in Fundamen<g ref="char:EOLhyphen"/>tals.</hi> But let not <hi>F. B.</hi> or any elſe think, his Words are of that Credit to be believed without Proof; which he hath not yet made of what he confidently and falſly aſſerts.</p>
+            <pb n="13" facs="tcp:46474:10"/>
+            <p>Again, he ſaith (the <hi>Clergy of Norfolk,</hi> which joyned with him to Challenge the <hi>Quakers) do not go behind your Backs to try, judge, and condemn you; they met you, and would have proved their Charge upon you.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> It may be rather ſaid, we met them: For thoſe Prieſts declared, <hi>their Meaſures were fix'd, and we might chooſe whether we would meet them or not;</hi> and no Doubt, but that would have pleaſed them better, than our meet<g ref="char:EOLhyphen"/>ing of them did: And why did not they try, judge, and condemn us then <hi>behind our Backs?</hi> Was it not becauſe we <hi>Appeared to their Faces?</hi> And ſo they could not then prove their Charge, tho they would, if they could: But ſince <hi>be<g ref="char:EOLhyphen"/>hind our Backs,</hi> by Picking Sentences, Breaking them in Pieces, and Abuſing us and the <hi>Authors,</hi> they have aſſayed towards it: Yet how far, or fairly they have done it, <hi>viz.</hi> prov'd the People called <hi>Quakers, Blaſphemers,</hi> I ſhall leave to the impartial Peruſer to enquire and judge by the <hi>Brief Examination</hi> before referred to. Next,</p>
+            <p>He quotes <hi>Edward Burroughs's Works, page</hi> 223. being a Book printed 1657, entituled <hi>A juſt and lawful Tryal of the Teachers</hi> and <hi>profeſſed Miniſters of that Age,</hi> &amp;c. And then <hi>F. Bugg</hi> ſaith, <hi>Now Friends, do you think, this was fair deal<g ref="char:EOLhyphen"/>ing in you to condemn the</hi> Clergy <hi>of all Ranks at once? How can you have the Face to go to the</hi> Biſhops <hi>for Favour?</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> If <hi>F. Bugg</hi> accounts thoſe <hi>God's Heritage,</hi> and <hi>Chriſt's Miniſters,</hi> that turned and kept the <hi>Biſhops</hi> out of their <hi>Biſhopricks;</hi> how can he have the Face to own himſelf a <hi>Member</hi> of the <hi>Church of England,</hi> and <hi>Receive Money</hi> from them and <hi>their Clergy</hi> ſo called? But if not, why ſhould he blame <hi>Edward Burroughs</hi> for writing againſt thoſe, whom neither <hi>he,</hi> nor the <hi>Biſhops</hi> eſteemed <hi>Miniſters of Chriſt,</hi> nor <hi>truly called</hi> to their Office? Let him read what <hi>Edward Bur<g ref="char:EOLhyphen"/>roughs</hi> writes, and refute it if he can; and conſider whe<g ref="char:EOLhyphen"/>ther this be <hi>fair Dealing</hi> in him, and whether the <hi>Quakers</hi> may not with a <hi>better Face,</hi> go to the <hi>Biſhops</hi> for <hi>Favour,</hi> or
+<pb n="14" facs="tcp:46474:11"/> rather <hi>Juſtice,</hi> than <hi>Francis Bugg</hi> for <hi>Money?</hi> Seeing they did not eſteem thoſe, that drove and kept the <hi>Biſhops</hi> and their <hi>Company</hi> out of their <hi>Rich Biſhopricks, Large Parſonages,</hi> and <hi>Vicarages,</hi> to be <hi>Miniſters of Chriſt;</hi> nor were they found in their Spirit and Practice; altho <hi>F. B.</hi> is offended with the <hi>Quakers</hi> for it, and would have them Retract, and calls what the <hi>Quakers</hi> writ againſt them, the <hi>Quakers abominable ancient Teſtimony.</hi>
+            </p>
+            <p>Now let <hi>F. B.</hi> conſider whether he muſt not retract this, before he gets <hi>another Letter</hi> from a <hi>Biſhop</hi> in his Com<g ref="char:EOLhyphen"/>mendation, to carry about with him <hi>to get Money.</hi>
+            </p>
+            <p>As to what he carps at in <hi>Edward Burroughs's Works, p.</hi> 273. about the <hi>Quakers Sufferings,</hi> it being brought by the <hi>Prieſts,</hi> and replyed to in the <hi>Brief Examination</hi> before mentioned, and anſwered at other Times, I refer thereunto. Only this I may query, is a Book to be condemned, and the whole <hi>Society</hi> to which the <hi>Author</hi> belonged, for ſome Difficulty in it, or ſeeming Inconſiſtency? Seeing <hi>Biſhop Kidder,</hi> in the Preface to his Second Volume againſt the <hi>Jews,</hi> ſaith, in ſuch a Caſe; <q rend="margSglQuotes">I hope the Jews do not think that Book [meaning the Bible] is to be rejected, becauſe there is ſome Difficulty in it, for ſeeming Inconſiſten<g ref="char:EOLhyphen"/>cies: For then they muſt reject the Law and the Holy Pro<g ref="char:EOLhyphen"/>phets, unleſs they are able to account for all the difficult Places to be found in them.</q> Thus far the <hi>Biſhop.</hi>
+            </p>
+            <p>But to proceed, <hi>F. B.</hi> ſaith, <hi>Indeed, if it be as</hi> Edward Burroughs <hi>ſaid in the recited Tryal and Condemnation of the</hi> Clergy <hi>in his</hi> Works, <hi>p.</hi> 223, 227, 234. <hi>viz.</hi> That they Agree and Concur with all the falſe <hi>Prophets</hi> and <hi>Decei<g ref="char:EOLhyphen"/>vers</hi> in former Ages; that they are Miniſters of <hi>Antichriſt,</hi> yet have 1500000 <hi>l.</hi> a Year for their Antichriſtian Service, as his ancient Teſtimony ſets forth, printed 1655. then 3 <hi>d.</hi> a Day is enough, nay, too much.</p>
+            <p>
+               <hi>Reply.</hi> If <hi>F. Bugg</hi> will inſiſt upon it, that thoſe <hi>Teach<g ref="char:EOLhyphen"/>ers</hi> and <hi>Profeſſed Miniſters</hi> in 1657. (for that was the
+<pb n="15" facs="tcp:46474:11"/> Date of <hi>Edward Burroughs</hi>'s Book, not 1655.) were (what he terms them) the <hi>Clergy,</hi> or Heritage of God (as that Word ſignifies;) I then propoſe to the impartial Judgment of all Men, whether <hi>F. B.</hi> ought not to prove; that the <hi>Teachers</hi> and <hi>profeſſed Miniſters</hi> of that Age did Agree, were according to all the <hi>Miniſters</hi> of <hi>Chriſt</hi> in former Ages, and did not Concur with any of the <hi>falſe Prophets</hi> and <hi>Deceivers,</hi> either in <hi>Call, Maintenance, Doctrine, Converſation,</hi> or <hi>Pra<g ref="char:EOLhyphen"/>ctice?</hi> And when he goes about to prove this, let him con<g ref="char:EOLhyphen"/>ſider what <hi>Gratuity</hi> and <hi>Applauſe</hi> he will gain from his <hi>new Lords and Maſters.</hi>
+            </p>
+            <p>Now, if he prove, that thoſe of that Age, who entred in<g ref="char:EOLhyphen"/>to a <hi>Solemn League</hi> and <hi>Covenant</hi> againſt <hi>Prelacy,</hi> were <hi>God's Heritage,</hi> and what they did was according to all the <hi>Mini<g ref="char:EOLhyphen"/>ſters of Chriſt</hi> in former Ages, and alſo that thoſe Sort of Men of that Age,<note place="margin">
+                  <hi>Bak. Chron.</hi> p. 588.</note> which de<g ref="char:EOLhyphen"/>clared the <hi>Kingly Office</hi> to be unneceſſary and burdenſome, and that the <hi>Lord's Houſe</hi> was dangerous and uſeleſs, and therefore to be laid aſide, were the Miniſters of Chriſt rightly called of God, truly ordain<g ref="char:EOLhyphen"/>ed, and in their <hi>Call, Miniſtry, Maintenance, Doctrine, Con<g ref="char:EOLhyphen"/>verſation,</hi> and <hi>Practice,</hi> agreeable and according to Scripture, altho' they poſitively declared againſt the <hi>Clergy</hi> (to uſe <hi>F. B</hi>'s Phraſe) in theſe Words:</p>
+            <p n="1">1. <q rend="margSglQuotes">We will, to the uttermoſt of our Powers, in our ſeveral Capacities, oppoſe the Intereſt and pretended Right of <hi>Charles Stuart,</hi>
+                  <note place="margin">
+                     <hi>Bak. Chron.</hi> p. 671.</note> in and to the Government of theſe Nations, or any other Perſon or Perſons, pleading or pretending Right or Title by Vertue of his or their De<g ref="char:EOLhyphen"/>ſcent from the ſame Line with him.</q>
+            </p>
+            <p n="2">2. <q rend="margSglQuotes">We will not give our Conſent unto, but will oppoſe to our utmoſt Power, the ſetting up of any Single Perſon whatſoever, in the Place of, and for the chief Magiſtrate of theſe Nations, without a Single Perſon or Houſe of Lords.</q>
+            </p>
+            <pb n="16" facs="tcp:46474:12"/>
+            <p>Now I ſay, if thoſe Men, who ſo did, and joyn'd therein, were the <hi>Clergy</hi> (or <hi>Heritage of God</hi>) the Miniſters of Chriſt <hi>rightly Called, truly Ordained,</hi> and in their <hi>Call, Miniſtry, Main<g ref="char:EOLhyphen"/>tenance, Doctrine, Converſation</hi> and <hi>Practice,</hi> were not Anti<g ref="char:EOLhyphen"/>chriſtian; nor did act any thing in Agreement with any of the <hi>falſe Prophets</hi> and <hi>Deceivers</hi> in former Ages:</p>
+            <p>What then doth <hi>F. B.</hi> render thoſe that he now pre<g ref="char:EOLhyphen"/>tends to be one of, or that <hi>Church</hi> of which he now declares himſelf to be a <hi>Member?</hi> For they have made Laws againſt ſuch <hi>Profeſſed Miniſters,</hi> that <hi>Edward Burroughs</hi> wrote againſt in 1657. Enacting, about three Years after, <q rend="margSglQuotes">That every <hi>Eccleſiaſtical Perſon</hi> or <hi>Miniſters,</hi> or<g ref="char:EOLhyphen"/>dained by any Eccleſiaſtical Perſons,<note place="margin">
+                     <hi>Bak. Cron.</hi> p. 724.</note> before <hi>December</hi> 25. laſt paſt, being 24 Years of Age; having not renounced his <hi>Ordination,</hi> who hath been ſince <hi>January</hi> 1642. placed in, and in actual Poſſeſſion of any Eccleſiaſtical Benefice with Cure of Souls, <hi>&amp;c.</hi> is declared Lawful Incumbent.</q> By which it ſeems plain to me, they did not eſteem any Perſon or Miniſter, that was 24 Years of Age, and was ordained from 1642. to 1660. and had Renounced his Ordination, to be rightly Ordained, or <hi>Lawful Incombent;</hi> ſo that it appears, they were not <hi>truly Ordained;</hi> and by <hi>Edward Burroughs's Examination</hi> it alſo appears, they were not <hi>rightly Called.</hi> Again, if they were Miniſters of Chriſt, and rightly Called and Ordain<g ref="char:EOLhyphen"/>dained to that Work, why were they <hi>Silenced Preaching, Turned out of their Parſonages, Prohibited Living within five Miles of any Corporation, and Laws made to ſuppreſs their Meetings?</hi> And if now <hi>F. B.</hi> ſhall confeſs, they are not the True Miniſters of Chriſt, nor Right in their Call or Ordination, <hi>&amp;c.</hi> and that 3d. a day is indeed too much for them; how comes he, and all thoſe of his <hi>Church,</hi> ſo called, to joyn in an Unanimous Conſent with <hi>them,</hi> to have the <hi>Quakers</hi> Suppreſſed, if what he writes be true? Is it from
+<pb n="17" facs="tcp:46474:12"/> any Conſciouſneſs to themſelves, or Doubt that what <hi>Ed<g ref="char:EOLhyphen"/>ward Burroughs</hi> ſaid of thoſe <hi>Teachers,</hi> or <hi>Profeſſed Miniſters,</hi> might as truly be ſaid of <hi>ſome of thoſe</hi> he is now joyned with, upon due Examination, and by Scripture Proof, both with reſpect to their <hi>Call, Maintenance, Doctrine, Converſation</hi> and <hi>Practice?</hi> Which <hi>ſome of them</hi> have de<g ref="char:EOLhyphen"/>clared, by being very ſevere upon ſome, who for Con<g ref="char:EOLhyphen"/>ſcience ſake cannot put into their Mouths, that for 35 <hi>s.</hi> pretended Dues, have ſeized more than 80 <hi>l.</hi> and when they had an eaſier Way to have Compelled it, <hi>viz. by Diſtreſs,</hi> have ſeized and ſold to the value of 87 <hi>l.</hi> 16 <hi>s.</hi> 11 <hi>d.</hi> for 6 <hi>l.</hi> 15 <hi>s.</hi> 11 <hi>d.</hi> Demanded.</p>
+            <p>And ſince <hi>F. Bugg</hi> ridicules our Sufferings in the <hi>Poſtſcript</hi> of that Book to the <hi>King</hi> and <hi>both Houſes of Parliament,</hi> I ſhall briefly hint, <hi>that of the People</hi> called <hi>Quakers,</hi> there ſuf<g ref="char:EOLhyphen"/>fered in the Year 1660. by <hi>Impriſonments, Stockings, Whip<g ref="char:EOLhyphen"/>ings, Loſs of Goods,</hi> and <hi>other Abuſes</hi> 3179. and 79 <hi>lay in Priſon</hi> when King <hi>Charles</hi> the 2d came in; and 32 <hi>Died</hi> there. Now many of theſe ſuffered by thoſe <hi>Teachers, Mi<g ref="char:EOLhyphen"/>niſters,</hi> &amp;c. that <hi>F. Bugg</hi> calls the <hi>Clergy</hi> (or <hi>Heritage of God</hi>) which were gotten into the <hi>Fat Parſonages, Rich Vicarages,</hi> and other Profitable Places, of thoſe that were turned out.</p>
+            <p>In the Time of <hi>King Charles</hi> the Second, many Thou<g ref="char:EOLhyphen"/>ſands ſuffered by <hi>Qui Tam</hi>'s, two thirds of their Eſtates; and 20 <hi>l. per Month</hi> for not going to Church (as they called it) by <hi>Sequeſtrations</hi> for <hi>Tythes,</hi> and by <hi>Impriſonments</hi> on Writs <hi>De Excommunicato capiendo,</hi> and <hi>Juſtices Warrants,</hi> and for their <hi>Religious Meetings,</hi> as <hi>Rioters,</hi> and <hi>Tumultu<g ref="char:EOLhyphen"/>ous Perſons,</hi> when they were <hi>Quiet</hi> and <hi>Peaceable.</hi>
+            </p>
+            <p>At <hi>Horſelydown</hi> there was more Blood ſhed than a <hi>Bloody Noſe</hi> (as <hi>F. Bugg</hi> ſcoffingly writes) by <hi>Troopers</hi> and <hi>Soldiers.</hi> And 1660 were left Priſoners, when <hi>King Charles</hi> the <hi>Second</hi> died, beſides the <hi>Fines, Eſtreats</hi> out of the <hi>Exchequer,</hi> that were againſt many, which the late King <hi>James</hi> relieved them from, and for which they were thankful to <hi>God</hi> and
+<pb n="81" facs="tcp:46474:13"/> the <hi>King;</hi> and from hence ſome that cauſed us to Suffer, when they could not have their Ends anſwered to continue our Sufferings, would inſinuate, that we were <hi>Popiſh<g ref="char:EOLhyphen"/>ly Aflected:</hi> So that when they could not Afflict us with their <hi>Hands,</hi> they would <hi>Laſh</hi> and <hi>Perſecute</hi> us with their Virulent <hi>Tongues</hi> and <hi>Pens.</hi>
+            </p>
+            <p>Let <hi>F. Bagg</hi> in his next (ſeeing he ſcribbles Books ſo faſt) tell how many of thoſe that kept the <hi>Biſhops,</hi> and their <hi>Com<g ref="char:EOLhyphen"/>pany</hi> out, <hi>turned with the Times</hi> to ſave their Benifices.</p>
+            <p>It's very like old <hi>Henry Meriton, Rector of Oxborough,</hi> in <hi>Norfolk</hi> may inform him herein; and who it was that was <hi>Excluded</hi> or <hi>Suſpended</hi> from <hi>Preaching</hi> in any <hi>Corpora<g ref="char:EOLhyphen"/>tion</hi> in <hi>England,</hi> and what it was for.</p>
+            <p>Again, that woful Cry againſt <hi>
+                  <g ref="char:V">Ʋ</g>njuſt Perſecutions</hi> and <hi>Grievous Oppreſſions,</hi> writ by <hi>Edward Burroughs,</hi> which <hi>F. B.</hi> quotes, as I have hinted before, was againſt thoſe that turned, and kept the <hi>Biſhops,</hi> and their <hi>Company,</hi> out of Poſſeſſion; and that cried againſt them as <hi>Popiſh.</hi> Did not they call the <hi>Common-Prayer, Porrage,</hi> the <hi>Surplice,</hi> the <hi>Whores Smock?</hi> And did they not cry, <hi>Down with the Whore of Babylon; Down, Down with Her?</hi> And did not the <hi>Trumpets</hi> ſound when they ſo Cried, and the <hi>Croſs</hi> in <hi>Cheapſide</hi> was pulled down, and the <hi>Images</hi> defa<g ref="char:EOLhyphen"/>ced, and the <hi>Organs</hi> called their <hi>Bag,</hi> or <hi>Grumbling Pipes,</hi> and turned out alſo? And was there not a great Cry then made againſt the <hi>Biſhops?</hi> And the <hi>Church-Lands</hi> ſold alſo? Yet <hi>F. Bugg</hi> will Cry and Exclaim againſt the <hi>Quakers,</hi> who Cried againſt thoſe that turned the Pre<g ref="char:EOLhyphen"/>deceſſors of his <hi>New Lords</hi> and <hi>Maſters,</hi> out of Poſſeſſion: Is it for the Reaſons before-mentioned? Or becauſe the <hi>Quakers</hi> teſtified againſt thoſe <hi>Teachers,</hi> and their Perſecu<g ref="char:EOLhyphen"/>ting Spirit and Practices? How will he then Reconcile this Perſecution, which he ſaith is, a <hi>Badge of a falſe Church?</hi> And if theſe Men in that Age were found in it, why then doth <hi>F. Bugg</hi> call them the <hi>Clergy</hi> (or, <hi>Heritage of God?</hi>)
+<pb n="19" facs="tcp:46474:13"/> Why doth he ſay they are one with the <hi>Church of Eng<g ref="char:EOLhyphen"/>land,</hi> and that there is the <hi>
+                  <g ref="char:V">Ʋ</g>nanimous Conſent</hi> of <hi>all Prote<g ref="char:EOLhyphen"/>ſtants,</hi> both <hi>Conformiſts</hi> and <hi>Nonconformiſts,</hi> to have the <hi>Quakers Principles</hi> Examined or <hi>Suppreſſed;</hi> and that they, <hi>i. e.</hi> the <hi>Nonconformiſts,</hi> are ſorrowfully affected, that they are joyned with <hi>them</hi> in the <hi>Act of Toleration,</hi> to ſee Chriſtianity ſuffer ſo deeply by their <hi>Anti-ſcriptural Doctrine?</hi> And not only ſo, ſaith <hi>F. Bugg,</hi> but I have a Teſtimony well atteſted of their Abhorrence of their Blaſphemous Tenets.</p>
+            <p>O how buſie is this Agent, to inſinuate, that all other Diſſenters were ſorry they were joyned with us in the <hi>Act of Toleration;</hi> and that Chriſtianity deeply ſuffered by the <hi>Quakers</hi> Blaſphemous Tenets! O wicked and falſe In<g ref="char:EOLhyphen"/>ſinuations! But this is our Comfort, that we are made Partakers of the Bleſſing which Chriſt pronounced, when he ſaid; <hi>Bleſſed are ye when Men ſhall Revile you, and Per<g ref="char:EOLhyphen"/>ſecute you, and ſhall ſay all manner of Evil</hi> falſly (or as 'tis in the <hi>Greek,</hi> lying) <hi>for my Name ſake:</hi> We therefore Re<g ref="char:EOLhyphen"/>joyce, and are exceeding Glad, knowing our Reward is great in Heaven; and while we are here, we are reſolved through the <hi>Grace of God, to Love our Enemies, Bleſs them that Curſe us, do Good unto them that Hate us, and Pray for them who Deſpightfully uſe us, and Perſecute us, that we may be the Children of our Father which is in Heaven: For he maketh his Son to riſe on the Evil and on the Good, and ſendeth Rain on the Juſt and on the <g ref="char:V">Ʋ</g>njuſt,</hi> Mat. 5.44, 45.</p>
+            <p>And therefore I tenderly propoſe to the Serious Conſi<g ref="char:EOLhyphen"/>deration of all Chriſtian People, Whether to dwell in Love, abide in Charity, walk in Humility, fear God, and live Peaceably with all Men, will not render us more <hi>like God and Chriſt,</hi> than to dwell in Hatred and Enmity, to walk in Pride and High-mindedneſs, and to be Turbulent and Quarrel<g ref="char:EOLhyphen"/>ſome? For, are not they the <hi>beſt Chriſtians Subjects and Neighbours, that truly Believe in God, and Jeſus Chriſt his
+<pb n="20" facs="tcp:46474:14"/> Son, and in the Holy Spirit; and take the Holy Scriptures, which were given forth by Divine Inſpiration for their Creed, the Holy Spirit for their Guide, Chriſt for their Example, and God for their Teacher; and are rather careful to live well, and love all Men, than to contend about School Diſtinctions, and meer Speculative Notions,</hi> as too many do? For ſuch commonly are more Earneſt for their Interpretations, than for the <hi>Text;</hi> and Hate and Kill one another, falſly pretending it is for God's ſake: Who, while they would be counted Members of the true Church of Chriſt, by their Fruits are known to be of the contrary; for if Perſecution is a <hi>Badge of a falſe Church,</hi> and the <hi>Proteſtants</hi> generally account it ſo in the <hi>Papiſts;</hi> then ought it not diligently to be by all them avoided, and to account it their Intereſt to Unite in Love and Affection, in Charity and good Will? For what is that Man's Religion worth who wants Charity, and his Pretence of Zeal for God, who dwells in Envy and Malice to his Neighbour, whom he ought to Love as himſelf?</p>
+            <p>So deſiring heartily that the Lord may Incline the Minds of all to follow Him, and his Son <hi>Chriſt Jeſus</hi> our alone Sa<g ref="char:EOLhyphen"/>viour, who came not to Deſtroy Mens lives, but to ſave them; who would not have the Tares pulled up, leſt the Wheat ſhould be pluck'd up alſo; and told his <hi>Diſciples,</hi> who deſired Fire to come down from Heaven, to conſume thoſe that would not receive him, That <hi>they knew not what Spirit they were of,</hi> Luke 9.55.</p>
+            <p>And thus in the Senſible Feeling of the <hi>Love of God,</hi> I reſt in this <hi>Hope</hi> and <hi>Faith,</hi> That he will in his own appointed Time, perſwade <hi>Japhet</hi> to dwell in the Tents of <hi>Shem,</hi> ga<g ref="char:EOLhyphen"/>ther the Gentiles, who are yet afar off, unto <hi>Shiloh;</hi> and fruſtrate all the Attempts of <hi>Gog</hi> and <hi>Magog,</hi> who are in Helliſh Confederacy againſt the Accompliſhment of ſo Glo<g ref="char:EOLhyphen"/>rious, ſo Bleſſed, and ſo Deſirable a Work.</p>
+            <div type="abstract">
+               <pb n="21" facs="tcp:46474:14"/>
+               <head>A Brief Abſtract of ſome Sufferings of the People called <hi>Qua<g ref="char:EOLhyphen"/>kers,</hi> given to Confront <hi>F. B</hi>'s diminutive Account, and not for Oſtentation, nor to Reflect upon any of the Church of <hi>England,</hi> or others, who are Principled againſt Perſecution.</head>
+               <p>BY printed Accounts to the <hi>King</hi> and <hi>both Houſes of Parlia<g ref="char:EOLhyphen"/>ment,</hi> there ſuffered of the <hi>People of God</hi> in Scorn called <hi>Quakers,</hi> in the Days of the <hi>Common-wealth,</hi> and of <hi>Oliver</hi> and <hi>Richard Cromwell,</hi> for bearing a <hi>Faithful Teſtimony</hi> to the <hi>Truth,</hi> as it is in <hi>Jeſus;</hi> as followeth.</p>
+               <div type="account">
+                  <head>In <hi>England.</hi>
+                  </head>
+                  <p>
+                     <table>
+                        <row>
+                           <cell>There have ſuffer'd <hi>Impriſonments, Stockings, Whippings, Loſs</hi> of <hi>Goods,</hi> and other <hi>Abuſes</hi> to the <hi>Year,</hi> 1660.</cell>
+                           <cell>3179 <hi>Perſons.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Remained then <hi>Priſoners,</hi>
+                           </cell>
+                           <cell>79 <hi>Perſons.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>There died in <hi>Priſon,</hi> in the <hi>Common-Wealth,</hi> in <hi>Oliver</hi> and <hi>Richard Cromwell</hi>'s Days,</cell>
+                           <cell>32 <hi>Perſons.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Impriſoned</hi> in <hi>King Charles</hi> the Second's Name in 1660, after his Return and of which died,</cell>
+                           <cell>77 <hi>Perſons.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Then <hi>Priſoners,</hi>
+                           </cell>
+                           <cell>317 <hi>Perſons.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>For 706 <hi>l.</hi> 8 <hi>s.</hi> 11 <hi>d.</hi> demanded, had taken</cell>
+                           <cell>3000 <hi>l.</hi> 03 <hi>s.</hi> 08 <hi>d.</hi>
+                           </cell>
+                        </row>
+                     </table>
+                  </p>
+               </div>
+               <div type="account">
+                  <head>In 1661.</head>
+                  <p>
+                     <table>
+                        <row>
+                           <cell>There have ſuffered of the ſaid <hi>People,</hi> by <hi>Im<g ref="char:EOLhyphen"/>priſonments,</hi> for refuſing to <hi>ſwear,</hi> and for meeting together, and refuſing to go to the publick Wor<g ref="char:EOLhyphen"/>ſhip, ſince King <hi>Charles</hi> II. came into <hi>England.</hi>
+                           </cell>
+                           <cell>5400 <hi>Perſons.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Died, through hard and cruel Uſage</cell>
+                           <cell>14</cell>
+                        </row>
+                     </table>
+                  </p>
+               </div>
+               <div type="account">
+                  <head>1661. In <hi>Ireland.</hi>
+                  </head>
+                  <p>
+                     <table>
+                        <row>
+                           <cell>There ſuffered for not <hi>ſwearing,</hi> by <hi>Impriſonments, Stock<g ref="char:EOLhyphen"/>ings, Whippings,</hi> and Loſs of their Goods.</cell>
+                           <cell>200.</cell>
+                        </row>
+                        <row>
+                           <cell>Preſent <hi>Priſoners</hi> being taken out of a peacable <hi>Meeting</hi> in <hi>Cork,</hi> and one <hi>Meeting</hi> more.</cell>
+                           <cell>14</cell>
+                        </row>
+                     </table>
+                  </p>
+               </div>
+               <div type="account">
+                  <head>1661. In <hi>Scotland.</hi>
+                  </head>
+                  <p>
+                     <table>
+                        <row>
+                           <cell>For not <hi>ſwearing,</hi> &amp;c. have been impriſoned, ſtockt, whipt, and ſome baniſhed.</cell>
+                           <cell>91</cell>
+                        </row>
+                        <row>
+                           <cell cols="2">And many then in <hi>Priſon</hi> there, had Neceſſaries denied them, and their <hi>Friends</hi> viſiting of them.</cell>
+                        </row>
+                        <row>
+                           <cell>Beſides, there remained <hi>Priſoners</hi> in 1661, in <hi>England,</hi> for good <hi>Conſcience.</hi>
+                           </cell>
+                           <cell>552</cell>
+                        </row>
+                     </table>
+                  </p>
+               </div>
+               <div type="account">
+                  <pb n="22" facs="tcp:46474:15"/>
+                  <head>1661. In Forreign Plantations. <hi>New England.</hi>
+                  </head>
+                  <p>
+                     <table>
+                        <row>
+                           <cell>BAniſhed on pain of Death,</cell>
+                           <cell>26</cell>
+                        </row>
+                        <row>
+                           <cell>Martyred,</cell>
+                           <cell>4</cell>
+                        </row>
+                        <row>
+                           <cell>Ears cut off,</cell>
+                           <cell>3</cell>
+                        </row>
+                        <row>
+                           <cell>Burned in the Hand with the Letter <hi>H,</hi>
+                           </cell>
+                           <cell>1</cell>
+                        </row>
+                        <row>
+                           <cell>650 Stripes given to</cell>
+                           <cell>31</cell>
+                        </row>
+                        <row>
+                           <cell>Beat till his Body was like a Jelly,</cell>
+                           <cell>1</cell>
+                        </row>
+                        <row>
+                           <cell cols="2">Five Appeals made to <hi>England,</hi> were denyed by <hi>Boſton Rulers.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Taken from them in <hi>New England,</hi> in Goods, to the Value of</cell>
+                           <cell>1045<hi>l.</hi>
+                           </cell>
+                        </row>
+                     </table>
+                  </p>
+               </div>
+               <div type="account">
+                  <head>Cyrinam.</head>
+                  <p>Some <hi>impriſoned</hi> and after <hi>baniſhed</hi> into Woods amongſt wild Beaſts, to be devoured, but the Lord preſerved them.</p>
+               </div>
+               <div type="account">
+                  <head>In <hi>Maryland.</hi>
+                  </head>
+                  <p>
+                     <table>
+                        <row>
+                           <cell rows="2">Suffered by the Loſs of Goods taken for wor<g ref="char:EOLhyphen"/>ſhiping God.</cell>
+                           <cell>
+                              <hi>l.</hi>
+                           </cell>
+                           <cell>
+                              <hi>s.</hi>
+                           </cell>
+                           <cell>
+                              <hi>d.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>299</cell>
+                           <cell>12</cell>
+                           <cell>4</cell>
+                        </row>
+                     </table>
+                  </p>
+               </div>
+               <div type="account">
+                  <head>In <hi>Virginia.</hi>
+                  </head>
+                  <p>
+                     <table>
+                        <row>
+                           <cell>Impriſoned for meeting to worſhip God</cell>
+                           <cell>12 <hi>Perſons</hi>
+                           </cell>
+                        </row>
+                     </table>
+                  </p>
+                  <p>And <hi>fined</hi> and <hi>whip'd</hi> for having <hi>Meetings,</hi> and not <hi>pulling off the Hat,</hi> and had taken from them 2000 <hi>Pound Weight</hi> of <hi>Tobacco,</hi> and from one a 100 <hi>l. Sterling.</hi>
+                  </p>
+                  <p>Beſides ſeveral others, ſome whereof kept ſo cloſe in <hi>Priſon,</hi> in a cloſe Place, that they were not ſuffered to go forth to eaſe themſelves.</p>
+               </div>
+               <div type="account">
+                  <head>Nevis,</head>
+                  <p>
+                     <table>
+                        <row>
+                           <cell>Baniſhed thence,</cell>
+                           <cell>15 <hi>Perſons.</hi>
+                           </cell>
+                        </row>
+                     </table>
+                  </p>
+                  <p>And 2 of them whipt, and one had a Wife and Children that were baniſh'd.</p>
+               </div>
+               <div type="account">
+                  <head>Chriſtophers.</head>
+                  <p>
+                     <table>
+                        <row>
+                           <cell>Baniſhed,</cell>
+                           <cell>1.</cell>
+                        </row>
+                     </table>
+                  </p>
+               </div>
+               <div type="section">
+                  <p>Beſides what's mentioned, ſome have been beat with Clubs, ſhot at with Piſtols and Guns, cut with Swords, knockt down into Pools: <hi>Armed Men</hi> came among <hi>Men, Women,</hi> and <hi>Chil<g ref="char:EOLhyphen"/>dren,</hi> when peaceably Met together, only to Wait upon, and Worſhip Almighty God, in a <hi>peaceable</hi> and <hi>innocent Manner,</hi> and have been thrown down, and trod upon, till the very Blood guſh'd out of them: Yet theſe were, and the ſaid <hi>People</hi> ſtill are,
+<pb n="23" facs="tcp:46474:15"/> an <hi>innocent</hi> and <hi>peaceable People,</hi> clear from all <hi>Rebellion, Plots,</hi> or <hi>Actions and Intentions</hi> of <hi>Evil:</hi> And that then deſired, as they now do, to live a quiet and peaceable Life, in all <hi>Godlineſs and Honeſty</hi> under the <hi>King.</hi>
+                  </p>
+                  <p>Note, In this <hi>printed Account,</hi> they offered the <hi>King and Parlia<g ref="char:EOLhyphen"/>ment,</hi> if they would not ſet their <hi>Friends</hi> at Liberty, which lay in <hi>Holes and Dungeons,</hi> ſome without Straw, ſome wanted Air, ma<g ref="char:EOLhyphen"/>ny could hardly get Meat, and ſeveral have died through <hi>cruel Sufferings and Abuſes</hi> by <hi>Goalers</hi> and others, <hi>viz.</hi>
+                  </p>
+                  <p>☞ That they, who were out of Priſon, were free, as many of them, to lie in Priſon in their room, and to go into thoſe <hi>Holes, Dungeons, ſtinking Vaults, and Places,</hi> where ſome of their <hi>Friends</hi> had lain 2, 3, 4, and 5, Years: But it would not be granted.</p>
+               </div>
+               <div type="account">
+                  <head>In 1685.</head>
+                  <p>
+                     <table>
+                        <row>
+                           <cell>By a <hi>Printed Account</hi> to the <hi>Biſhops and Clergy,</hi> it appears, that from the Time aforementioned, to 1680, there died in <hi>Priſon,</hi> and <hi>Priſoners</hi> for the Exerciſe of their <hi>Faith and Conſcience</hi> in Matters of <hi>Religion and Worſhip</hi> towards Al<g ref="char:EOLhyphen"/>mighty God, ſome of whom being knock'd down, bea<g ref="char:EOLhyphen"/>ten and bruiſed in their <hi>Meetings,</hi> died of their <hi>Wounds.</hi>
+                           </cell>
+                           <cell>243</cell>
+                        </row>
+                        <row>
+                           <cell>Remained then in <hi>Priſon,</hi> in the ſeveral Goals,</cell>
+                           <cell>276</cell>
+                        </row>
+                        <row>
+                           <cell>The Number of thoſe that had ſuffered <hi>Impriſonment,</hi> for <hi>Meeting, refuſing,</hi> for <hi>Conſcience Sake,</hi> to <hi>Swear,</hi> ſome of them having had <hi>Sentence</hi> of <hi>Praemunire,</hi> and <hi>Goods</hi> and <hi>Chattels</hi> ſeized.</cell>
+                           <cell>9437</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Excommunicated and impriſoned</hi> for <hi>Nonconformity,</hi> beſides many more ſo proſecuted.</cell>
+                           <cell>624</cell>
+                        </row>
+                        <row>
+                           <cell>Sentenc'd to <hi>Baniſhment,</hi> for <hi>Meeting</hi> to worſhip God,</cell>
+                           <cell>198</cell>
+                        </row>
+                     </table>
+                  </p>
+                  <p>And in the ſame Year,
+<table>
+                        <row>
+                           <cell>There was preſented to <hi>King James</hi> II. that were then <hi>Priſoners</hi> for their Religious Worſhip and Meeting for that End.</cell>
+                           <cell>1460</cell>
+                        </row>
+                        <row>
+                           <cell>There died ſince 1680, to 1685, <hi>Priſoners</hi> for their Faith and Worſhip.</cell>
+                           <cell>
+                              <gap reason="illegible" resp="#MURP" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>78</cell>
+                        </row>
+                        <row>
+                           <cell>And the Number of all amounting to</cell>
+                           <cell>12316</cell>
+                        </row>
+                     </table>
+                  </p>
+                  <p>Note, ſome of the preſent <hi>Priſoners</hi> were ſtill continued upon the aboveſaid <hi>Account</hi> in 1680.</p>
+                  <p>And farther <hi>Account</hi> of more ſent to <hi>Priſon,</hi> and ſome more died <hi>Priſoners.</hi>
+                  </p>
+                  <pb n="24" facs="tcp:46474:16"/>
+                  <p>Beſides, many that have ſuffered <hi>Impriſonment,</hi> ſince 1680, and a great Number diſtrained upon, and Havock made by <hi>Inform<g ref="char:EOLhyphen"/>ers</hi> (and ſome <hi>Informers</hi> were Prieſts) for their religious peace<g ref="char:EOLhyphen"/>able Meetings, and not coming to the Pariſh Church-Worſhip, ſo call'd, to the <hi>Ruine,</hi> of many, both in their <hi>Husbandry</hi> and Trade, ſome not having a <hi>Bed</hi> left to lye upon, nor <hi>Stool</hi> to ſit on, nor <hi>Cow</hi> to give Milk for their <hi>poor Children,</hi> nor <hi>Corn</hi> for Bread, or <hi>Seed,</hi> or <hi>Drink,</hi> nor <hi>Tools</hi> to work withal, <hi>&amp;c.</hi> The Value of which Goods taken, is conſiderable, as well as the Number of Sufferers, upon the ſaid <hi>Accounts;</hi> and by <hi>Impriſonments</hi> (not here inſerted) as ſaith the printed Account.</p>
+                  <p>
+                     <table>
+                        <row>
+                           <cell cols="3">And ſince 1685, there have ſuffered of the ſaid People, upon Account of their <hi>tender Conſciences,</hi> as for not paying Tythes, bearing Armes, Swearing, <hi>&amp;c.</hi> to 1697.</cell>
+                           <cell cols="2">2322</cell>
+                        </row>
+                        <row>
+                           <cell cols="3">There have been <hi>impriſon'd</hi> for the Cauſes afore<g ref="char:EOLhyphen"/>ſaid, <hi>&amp;c.</hi>
+                           </cell>
+                           <cell cols="2">622</cell>
+                        </row>
+                        <row>
+                           <cell rows="2">Since 1685, to 1697, they have had Goods <hi>diſtrained,</hi> in <hi>England, Wales,</hi> and the <hi>Iſle of Man,</hi> for not ſwearing, and not paying Tythes, and not bearing Arms, <hi>&amp;c.</hi> to the Value of</cell>
+                           <cell>
+                              <hi>l.</hi>
+                           </cell>
+                           <cell>
+                              <hi>s.</hi>
+                           </cell>
+                           <cell>
+                              <hi>d.</hi>
+                           </cell>
+                           <cell>
+                              <hi>q.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>27875</cell>
+                           <cell>10</cell>
+                           <cell>5</cell>
+                           <cell>½</cell>
+                        </row>
+                     </table>
+                  </p>
+                  <p>Not accounting the great Havock, Spoil, and Loſs of Goods they ſuſtained from 1661, to 1685, for their peaceable and reli<g ref="char:EOLhyphen"/>gious meetings, which would amount to a vaſt Sum.</p>
+                  <p>
+                     <table>
+                        <row>
+                           <cell>From 1685, to 1697, there died <hi>Priſoners</hi>
+                           </cell>
+                           <cell cols="3">17 <hi>Perſons.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell rows="2">And in <hi>Barbados,</hi> from 1658, to 1694, as ap<g ref="char:EOLhyphen"/>pears by a printed Account, the ſaid People have ſuffered great Loſs, moſtly for not ſending out to the Militia, to the Value of</cell>
+                           <cell>
+                              <hi>l.</hi>
+                           </cell>
+                           <cell>
+                              <hi>s.</hi>
+                           </cell>
+                           <cell>
+                              <hi>d.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>11805</cell>
+                           <cell>11</cell>
+                           <cell>6</cell>
+                        </row>
+                        <row>
+                           <cell>Of which Sum was taken contrary to Law</cell>
+                           <cell>1817 <hi>l.</hi>
+                           </cell>
+                           <cell>15 <hi>s.</hi>
+                           </cell>
+                           <cell>6 <hi>d.</hi>
+                           </cell>
+                        </row>
+                     </table>
+                  </p>
+                  <p>And a great deal more they have ſuffered, of which no Ac<g ref="char:EOLhyphen"/>count hath been yet given, beſides <hi>Impriſonments.</hi>
+                  </p>
+                  <p>And in <hi>Maryland, Jamaica, Virginia, Nevis, Ireland,</hi> and <hi>Scot<g ref="char:EOLhyphen"/>land:</hi> They have been Sufferers by <hi>Impriſonments,</hi> and Loſs of Goods, only for their Religious <hi>Meetings,</hi> and for not <hi>Swearing,</hi> and upon other Accounts of their <hi>tender Conſciences,</hi> to the Va<g ref="char:EOLhyphen"/>lue following, <hi>viz.</hi>
+                  </p>
+                  <p>
+                     <table>
+                        <row>
+                           <cell> </cell>
+                           <cell>
+                              <hi>l.</hi>
+                           </cell>
+                           <cell>
+                              <hi>s.</hi>
+                           </cell>
+                           <cell>
+                              <hi>d.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>In <hi>Maryland,</hi> from 1638, to 1668.</cell>
+                           <cell>552</cell>
+                           <cell>17</cell>
+                           <cell>6</cell>
+                        </row>
+                        <pb n="25" facs="tcp:46474:16"/>
+                        <row>
+                           <cell>Thus, by what I have hinted, their Loſs ap<g ref="char:EOLhyphen"/>pears to have been above the Value of</cell>
+                           <cell>43702</cell>
+                           <cell>00</cell>
+                           <cell>00</cell>
+                        </row>
+                     </table>
+                  </p>
+                  <p>And that which hath cauſed their Sufferings to amount ſo high, hath been the Exceſs in the Diſtreſſes, the diſtrainers often taking, in <hi>Barbados,</hi> much more than would ſatisfie; by which, ſome of them, notwithſtanding all their <hi>Providence</hi> and <hi>Induſtry</hi> are ſcarcely able to ſubſiſt and maintain their Families.</p>
+                  <p>Which ſurely is far more than the Loſs of a 1000 of <hi>Pins,</hi> o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 2 double Bibs, as <hi>Fra. Bugg</hi> ſcoffingly and ſlanderouſly writes: And yet hereby they declare, that they believe the <hi>King</hi>'s Reve<g ref="char:EOLhyphen"/>nue (in <hi>Barbadoes</hi>) is nothing increaſed, nor he or the Country benefited.</p>
+               </div>
+               <div type="account">
+                  <head>In <hi>Nevis.</hi>
+                  </head>
+                  <p>Several ſuffered on other Accounts, beſides thoſe that ſuf<g ref="char:EOLhyphen"/>ered for their <hi>Teſtimonies</hi> againſt the Prieſts Worſhip, Do<g ref="char:EOLhyphen"/>ctrine, <hi>&amp;c.</hi> for which they underwent great <hi>Fines</hi> and <hi>Impri<g ref="char:EOLhyphen"/>ſonments,</hi> and <hi>Perſecutions,</hi> and Three had about 17 <hi>l. ſterling</hi> de<g ref="char:EOLhyphen"/>manded for Fees; unto which <hi>Impriſonment</hi> no Fees belonged, by any Law in being; and yet Friends were diſtrain<g ref="char:EOLhyphen"/>ed, and had taken from them, by Order of Court, in a <hi>Negro,</hi> and Sugar 4000 <hi>l.</hi> weight and for the Marſhal's Fees, for which only there was granted but
+<table>
+                        <row>
+                           <cell> </cell>
+                           <cell cols="3">858 <hi>l.</hi> of Sugar</cell>
+                        </row>
+                        <row>
+                           <cell cols="2">So that they took more than due by their own Law, to the worth of above after 3 Months <hi>Impriſonment,</hi> for writing a Paper.</cell>
+                           <cell cols="2">3142 of Sugar. 19 <hi>l.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>And another had</cell>
+                           <cell>45</cell>
+                           <cell>17</cell>
+                           <cell>06 <hi>ſterling</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>taken for</cell>
+                           <cell>20</cell>
+                           <cell>00</cell>
+                           <cell>00 impos'd</cell>
+                        </row>
+                     </table>
+                  </p>
+                  <p>For a Fine on the <hi>Meeting-Houſe;</hi> and ſeveral others fined and Diſtrained.</p>
+                  <p>And were indicted by <hi>John Lawſon,</hi> Prieſt, for Slanders pre<g ref="char:EOLhyphen"/>tended againſt him, by baſe Libels, in terming him an <hi>Anti<g ref="char:EOLhyphen"/>chriſtian Prieſt,</hi> and he declared againſt them, that he had ſu<g ref="char:EOLhyphen"/>ſtained 100000 <hi>l.</hi> of Sugar, Damage.</p>
+                  <p>And one <hi>baniſhed</hi> to <hi>Burmudos,</hi> for writing a Warning to the <hi>Inhabitants</hi> of that <hi>Iſland.</hi>
+                  </p>
+               </div>
+               <div type="account">
+                  <head>Ireland.</head>
+                  <p>And ſince 1661, the ſaid People have been expoſed to <hi>Suffer<g ref="char:EOLhyphen"/>ings,</hi> for not having their <hi>Children Baptized,</hi> and for working on <hi>Days</hi> called <hi>Holy Days,</hi> and not going to the <hi>publick Worſhip;</hi>
+                     <pb n="26" facs="tcp:46474:17"/> and for not paying <hi>Smoak-Penny,</hi> &amp;c. but in that Year, an Or<g ref="char:EOLhyphen"/>der was granted by <hi>Maurice Euſtace,</hi> Chancellor, and <hi>Orrery Mon<g ref="char:EOLhyphen"/>troth,</hi> dated <hi>Dublin</hi> the 17th <hi>Auguſt</hi> 1661. Signifying, that they, commonly called Quakers, who for a long time had indured <hi>Impriſonment,</hi> and were in <hi>Priſon</hi> in divers Places, in that <hi>Nation,</hi> only for Conſcience ſake, ſhould be releaſed from their hard Impriſonments.</p>
+                  <p>And after this, they Suffered again in 1669. But about 1686, they injoyed their Liberty, and were moſtly quiet in that Nation, from thoſe Perſecutions they before had gone under, upon the Account of their tender Conſciences.</p>
+               </div>
+               <div type="account">
+                  <head>Scotland.</head>
+                  <p>Many times they were Dragged, Stoned, Reproached and Mocked, with cruel Mockings, and often Impriſoned, as appears by Account of <hi>Geo. Keith</hi> from thence in 1669.</p>
+                  <p>Some were Fined, according to the Act of <hi>Nonconformiſts,</hi> and committed to Priſon, and continued for Fines; and Diſtreſs was made on their Goods.</p>
+                  <p>Thoſe that Preached or Prayed in theſe Meetings were re<g ref="char:EOLhyphen"/>quired to pay 5000 Marks, <hi>Scotch,</hi> or to ſubſcribe to their own Baniſhment, as appears by another Letter from <hi>George Keith.</hi>
+                  </p>
+                  <p>In 1677. the Priſons were ſo thronged, that they were in danger of their Lives: A Doctor declared, That a Plague might be feared, if they had not more room to Breath in.</p>
+                  <p>And Application being made to the King, there being about 24 Priſoners; moſt of which had been ſix Months.</p>
+                  <p>It was referred to the King's Council, who ordered their Releaſe, upon Condition they would pay their Fines; which they for Conſcience ſake could not do, and ſo were continued Priſoners.</p>
+               </div>
+               <div type="account">
+                  <head>Maryland.</head>
+                  <p>In 1681. the Aſſembly paſſed an Act, that their Solemn Promiſe ſhould be taken, as if they had been Sworn in any Matter, Cauſe, or Thing, or before any Court, Judge, or Magiſtrate, within that Province; by which means they were ſomewhat eaſed from thoſe Sufferings, that were occa<g ref="char:EOLhyphen"/>ſioned for their not Swearing, and enjoyed the Liberty of their Conſciences till 1692. but ſince that have remained, and
+<pb n="27" facs="tcp:46474:17"/> ſtill are, Sufferers on other Accounts; particularly on that Act made there, on which the Royal Aſſent hath not yet paſſed here, Entituled, <hi>An Act for the Worſhip of Almighty God;</hi> which is eſteemed to be contrary to the Fundamental Laws of that Province; and the like Law was by the King and Council here diſallowed in 1695/6. but that by which they now Suffer was made in 1696. and is ſtrictly Executed upon them by Charga<g ref="char:EOLhyphen"/>ble Levies.</p>
+                  <p>And being kept here, and not preſented to the King and Council, is in force there, till it is Diſallowed, as that of the ſame Title and Tendency was by them in 1695/6.</p>
+               </div>
+               <div type="account">
+                  <head>In the <hi>Iſle of Man.</hi>
+                  </head>
+                  <p>The ſaid People have been great Sufferers ſeveral times, by Impriſonments there, and Baniſhed thence by direction of the <hi>Reverend Ordinary,</hi> ſo called; they having refuſed ſeveral Charges and Publications to go to Church, and continuing their Meeting, were therefore Cenſured to Priſon, and Order given by <hi>Robert Parr</hi> and <hi>John Harriſon,</hi> two Prieſts, that if they refuſed to be Committed by them, to call for the Aſſiſtance of a Souldier, and let the Sumner put this in Execution immediately.</p>
+                  <p>And by Vertue of this Order, the <hi>Quakers</hi> were taken into Cuſtody, and Impriſoned, without bringing before the Magi<g ref="char:EOLhyphen"/>ſtrate, or theſe two Prieſts themſelves, without any Ceremony of Excommunication.</p>
+                  <p>Oh what Power did theſe <hi>Prieſts</hi> take upon them, by Order from their <hi>Reverend Ordinary,</hi> ſo called, to admoniſh the <hi>Quakers,</hi> and without having them before them; cauſe them to be Im<g ref="char:EOLhyphen"/>priſoned and Baniſhed: Is this the way of the Biſhops Courts? And when the <hi>Sufferers</hi> met the Biſhop at the Earl of <hi>Darby</hi>'s Houſe, they told him what was done, and how they and their Anceſtors had had Poſſeſſions there in that Iſland, for ſeveral Hundred Years, and that they had their Wives and Families; ſome of which conſiſted of many little Children: And yet they were Baniſhed by the direction of the <hi>two Prieſts,</hi> that pretended their Orders from the <hi>Reverend Ordinary,</hi> ſo called: The Biſhop told them plainly, that if he might perſwade the Earl againſt them, they ſhould not go to the Iſle again.</p>
+                  <p>Let all that Read this obſerve, how unlike a Chriſtian Biſhop he appeared, and what little Regard he had to theſe Men, or
+<pb n="28" facs="tcp:46474:18"/> their Diſtreſſed Families, their Wives, or tender Children, from whom by his <hi>Prieſts</hi> and <hi>Orders,</hi> they were Baniſhed.</p>
+                  <p>And when they returned by order of the Magiſtrates in <hi>Cum<g ref="char:EOLhyphen"/>berland,</hi> to the Iſland, they were not ſuffered to Land, but had back to <hi>England.</hi>
+                  </p>
+                  <p>In the mean while, the Magiſtrates of the Iſland ſent and ſeized their Eſtates, Real and Perſonal; and when one of the Sufferers, <hi>viz. William Callow</hi> made Application to the Earl, for Relief, he was rejected.</p>
+                  <p>So his Wife and others were ſent to Priſon, and the ſaid <hi>William Callow</hi> being Baniſhed; his Children and Family, Fou<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>teen in Number, were left without any to take care of them; and this was what the <hi>Biſhop's Court</hi> did.</p>
+                  <p>☞ <hi>Note,</hi> It happened, that after the chief <hi>Sumner</hi> or <hi>Apparitor,</hi> viz. <hi>Robert Chiefton,</hi> who thus Proſecuted them, being drink<g ref="char:EOLhyphen"/>ing in a Prieſt's Houſe, that kept Ale to ſell, on a 7th day night, with <hi>John Harriſon,</hi> Prieſt aforeſaid, and others of the Per<g ref="char:EOLhyphen"/>ſecutors was found dead next Morning, being the 20th Day of the 7th Month, 1670.</p>
+                  <p>All, both Men and Women by the Governour <hi>Henry Nowell,</hi> had orders to prepare to be brought by Capt. <hi>Aſcough,</hi> the 3d of the 8th Month next following, to <hi>Douglas,</hi> to be Tranſported to <hi>Barbados;</hi> and accordingly all the <hi>Quakers</hi> were brought to the Houſe of <hi>William Callow,</hi> and two of the Women that were brought had each a young Child, one of which was ſix Weeks old, and the other but three.</p>
+                  <p>The next Morning they were had to <hi>Douglas,</hi> ſeveral of their Neighbours and Relations accompanying them, with many Tears and Cries, ſome part of the way, and many to <hi>Douglas.</hi>
+                  </p>
+                  <p>And deliver'd to the Cuſtody of one Capt. <hi>Quail,</hi> and a Liſt of their Names taken, for to deliver to Capt. <hi>Ingram,</hi> Maſter of the Ship that came from <hi>London,</hi> Bound for <hi>Barbadoes,</hi> who would have perſwaded them to Tranſport themſelves; which they refuſed, and had a long Diſcourſe with them.</p>
+                  <p>He asked <hi>Quail,</hi> How many there were? He ſaid ſix, <hi>viz. William Callow</hi> and Wife, <hi>Edwin Chriſtian</hi> and Wife, <hi>Jane Chri<g ref="char:EOLhyphen"/>ſtian,</hi> and <hi>Mary Callow,</hi> and three Children.</p>
+                  <p>
+                     <hi>Ingram</hi> ſaid, I'll have neither Mother nor Child.</p>
+                  <pb n="29" facs="tcp:46474:18"/>
+                  <p>Then <hi>Quail</hi> ſwore at <hi>Aſcough</hi> for bringing the Children; ſo the Childrens Names were put out of the Liſt, and the Liſt al<g ref="char:EOLhyphen"/>tered.</p>
+                  <p>And <hi>Quail</hi> ſwore, none of the Children ſhould go into Pri<g ref="char:EOLhyphen"/>ſon, and called for a Souldier to take them to Priſon. Then <hi>William Callow</hi> deſired, that ſeeing they had been Travelling all day with thoſe ſmall Children, they might refreſh themſelves before they went into Priſon, but were denied. And <hi>Quail</hi> ſaid, he would find them a Houſe, where they ſhould ſee nei<g ref="char:EOLhyphen"/>ther Sun nor Moon: They preſſed to Refreſh themſelves firſt for their Money, but were denied, and the Children taken from them, and <hi>Quail</hi> ſaid, Let them lie and die, <hi>It's no Sin to knock them on the Head, and daſh out their Brains.</hi> And added, <hi>I think I do God good ſervice to kill them, rather than they ſhould live in your Fooliſh Fancy.</hi> So they were all brought to Priſon, and near the Door <hi>Quail</hi> ſaid, <hi>I'll tell you the Truth of my Heart, I could find in my Heart to Kill you both: Indeed I could find in my Heart to Hang you both, and would be hanged my ſelf.</hi> Some of their Relations were then with them at the Priſon-door.</p>
+                  <p>Then he opened a Stable-door, and laid hold on <hi>W. C.</hi> and put him in, and the two Women, his <hi>Wife</hi> and <hi>Jane Chriſtian,</hi> commanding their Children to be taken from them, and to be laid in the Street; which the Souldiers that were commanded re<g ref="char:EOLhyphen"/>fuſing to do, <hi>Quail</hi> took the Child of ſix Weeks old from <hi>W. C</hi>'s Wife, and threw it down, and pitch'd his Wife into the Stable; And he took the other Child alſo of three Weeks old, and left it in the Street. Upon which <hi>William Callow</hi> deſired to let the Mothers have the Children that were lying in the Street. Then he turned about, and with his Rapier in the Sheath, broke <hi>W. C</hi>'s Head; and ſtruck him again, and broke it in another place: This was in the Priſon. So that the Blood run down his Face on both ſides, which cauſed the People on both ſides to weep, and cry'd out, Shame to ſtrike a Man in Priſon, and the Chil<g ref="char:EOLhyphen"/>dren lay crying in the Street.</p>
+                  <p>The Relations, not medling with them, being deſired to let them alone, to ſee what they would do with them. And the Priſoner told him, <hi>He as freely forgave him, as he gave him thoſe Blows;</hi> and then he ſuffered the Mothers to have the Children again.</p>
+                  <pb n="30" facs="tcp:46474:19"/>
+                  <p>☞ And the next Morning, being the 5th of the 8th Month, 1670. the Night having been ſo Fair and Calm, one might have carri<g ref="char:EOLhyphen"/>ed a Candle in ones Hand through the Streets; yet that great Ship, in which they were to be carried, was broke in the Ri<g ref="char:EOLhyphen"/>ver, and the Drum beat for People to go and take the Goods out of her; and preſently after ſome of the Rigging was put in the ſame place, the ſaid People were Priſoners in. Then Capt. <hi>Quail</hi> ſent for <hi>William Callow,</hi> and ſaid, <hi>Your Curſe is come on the great Ship;</hi> to which he replied, <hi>We Curſe not; but if any deſerved God's Curſe, it was enough to overturn them.</hi>
+                  </p>
+                  <p>And to the ſaid Captain <hi>Ingram,</hi> Maſter of this Ship, it was told that Captain <hi>Harwood,</hi> who before had carryed <hi>William Callow</hi> off that Iſland, being baniſhed to <hi>Virginia;</hi> that he, going into <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> had his Ship fired; and the 8th Day of the 8th <hi>Month,</hi> 1670, Captain <hi>Quaile</hi> ſent for <hi>William Callow,</hi> and told him he, might go home, and tell Captain <hi>Aſcough,</hi> to take care of them; and next Day ſent for their <hi>Children:</hi> That Day they were all at home, <hi>Praiſing God with Soul and Spirit.</hi>
+                  </p>
+                  <p>☞ Note, This was the 5th Ship that was broken, beſides that which was fired, and ſome of the People ſcorched, and the fore<g ref="char:EOLhyphen"/>going was the 8th Time of their <hi>Baniſhment.</hi>
+                  </p>
+                  <p>This Brief Account of ſome of the <hi>Sufferings</hi> of this <hi>abuſed People,</hi> I have given to ſhew, altho they fall greatly ſhort of what thoſe Chriſtians ſuffered by the <hi>Heathen</hi> in former Days. Yet they have been far greater than what <hi>F. B.</hi> repreſents them, and theſe Sufferings have been from <hi>Chriſtians</hi> and <hi>Miniſters</hi> of Chriſt, and reverend Fathers in God, ſo called.</p>
+                  <p>And this I hope, will not, by thoſe that are truly wiſe and conſiderate, be eſteemed <hi>wicked with a Witneſs,</hi> as <hi>F. B.</hi> falſly ſaith, <hi>to record ſuch as Perſecutors who execute the Laws:</hi> If ſo, let me query; was it wicked with a Witneſs, to record thoſe that executed the Law, <hi>De Heretico Comburendo,</hi> &amp;c. upon the Mar<g ref="char:EOLhyphen"/>tyr's Perſecutors; let this be conſider'd in Coolneſs, and alſo how Ill Will and Envy never ſpeaks well; and whether <hi>F. B</hi>'s being too much filled therewith, againſt this People he hath left, and hating that Light they profeſs and believe in, as he once did, or pretended to do, is not the cauſe of his thus Writing?</p>
+                  <pb n="31" facs="tcp:46474:19"/>
+                  <p>But, it's no new thing for evil Doers, to hate the Light, nor Men to depart from the Faith. There was a <hi>Judas</hi> in early Days, an <hi>Alexander</hi> and a <hi>Demas</hi> in the primitive Times, and thoſe that Apoſtatiz'd from the Chriſtian Faith, and that made Shipwreck thereof, and a good Conſcience, and in this Day, to the true Chriſtians Grief, there are too many, over whom the ſame degenerated Spirit, and Power of him that kept not his firſt Habitation, nor abode in the Truth, hath prevailed, and thereby they are become like the great Red Dragon, that ſtood ready to caſt forth his Flood to deſtroy the Man-Child, aſſoon as he was born; but in vain proved all his Rage, and fruitleſs were his Attempts, and ſo hath, and will the Lord make all the At<g ref="char:EOLhyphen"/>tempts, ſecret Contrivances, and Combinations of ſuch, againſt thoſe who abide in <hi>the Faith and Patience of the Lamb of God;</hi> for <hi>Behold,</hi> ſaid the Lord, he who hath, and will perform his Word, <hi>they ſhall truly gather together, but not by me: Whoſoever ſhall gather together againſt thee, ſhall fall for thy Sake. No Weapon that is formed againſt thee, ſhall proſper; and every Tongue that ſhall riſe againſt thee in Judgment, thou ſhalt condemn. This is the Heritage of the Servants of the Lord, and their Righteouſneſs is of me, ſaith the Lord<g ref="char:punc">▪</g>
+                     </hi> Iſai. 54.15, 17.</p>
+               </div>
+            </div>
+            <div type="abstract">
+               <head>A ſhorter Abſtract of the Sufferings before hinted.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>THere have ſuffered of the ſaid People called Quakers above,</cell>
+                        <cell cols="3">14638 <hi>Perſons.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>Sentenced to be, and Baniſhed</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>240</cell>
+                     </row>
+                     <row>
+                        <cell>Died Priſoners</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>141</cell>
+                     </row>
+                     <row>
+                        <cell rows="2">The Loſs ſuſtained by this Suffering Peo<g ref="char:EOLhyphen"/>ple, amounts to above the Value of</cell>
+                        <cell>
+                           <hi>l.</hi>
+                        </cell>
+                        <cell>
+                           <hi>s.</hi>
+                        </cell>
+                        <cell>
+                           <hi>d</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>43702</cell>
+                        <cell>00</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>Beſides vaſt Sums not reckoned herein, which would amount to more than</cell>
+                        <cell>27321</cell>
+                        <cell>00</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>And makes in all above</cell>
+                        <cell>71023</cell>
+                        <cell>00</cell>
+                        <cell>00</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>And this is not done in any wiſe, to boaſt of their Sufferings, but rather to ſhew they have been more than they are falſly re<g ref="char:EOLhyphen"/>preſented by <hi>F. Bugg;</hi> who, with thoſe few hot and angry Men, that joyned with him, have not been wanting in their endeavours to Incenſe the Government againſt this People, by falſly Charging them with many <hi>Horrid Blaſphemies,</hi> and their
+<pb n="32" facs="tcp:46474:20"/> 
+                  <hi>Principles</hi> to be <hi>Bloody, Treaſonable,</hi> and <hi>Deſtructive to Government;</hi> which is an evident Token, that it's the ſame old Perſecuting Spirit, which once prevailed againſt this People, that now works in theſe Men: But as the Lord preſerved them under all their Sufferings, ſo he hath diſappointed theſe Men in their Evil De<g ref="char:EOLhyphen"/>ſigns; for which they are truly thankful to God, that he hath ſo preſerved them, and they did and do, pray for thoſe that de<g ref="char:EOLhyphen"/>ſpitefully uſe them and perſecute them; and bleſs Almighty God for his Mercy and Providence towards them; and grate<g ref="char:EOLhyphen"/>fully acknowledge the favour of the Government, under which they live, for their preſent Liberty in the free Exerciſe of their tender Conſciences, and peaceable Enjoyment of their Religious Meetings therein.</p>
+               <p>Which are not <hi>for any of thoſe ill Ends,</hi> nor of ſuch <hi>dangerous Conſequence,</hi> or tending to <hi>Sedition,</hi> &amp;c, as hath been falſly and maliciouſly Suggeſted to the <hi>Parliament</hi> againſt them.</p>
+               <p>But are held in the Name, Love, and Spirit of our Lord Je<g ref="char:EOLhyphen"/>ſus Chriſt; and to no other end, but to ſerve God, and one ano<g ref="char:EOLhyphen"/>ther, in Love; and to counſel each other to keep and perſe<g ref="char:EOLhyphen"/>vere in the Doctrine of Chriſt, and in the Practice of that Re<g ref="char:EOLhyphen"/>ligion he is the Author of: Notwithſtanding the Enmity of their Adverſaries, and malicious Inſinuations of ſuch who have left them; and, <hi>Judas</hi>-like, ſeek to make them Suffer; as Ex<g ref="char:EOLhyphen"/>perience hath ſhewn.</p>
+               <p>And they hope their peaceable Demeanour, under all Go<g ref="char:EOLhyphen"/>vernments, hath been, and ſhall be, a <hi>better Evidence to their Su<g ref="char:EOLhyphen"/>periours for them,</hi> than the groundleſs and malicious Suggeſtions, or falſe Charges of their Adverſaries <hi>againſt them.</hi>
+               </p>
+               <p>And as by Law they have been indulged, and no ill Conſe<g ref="char:EOLhyphen"/>quences enſued therefrom; and the Reaſons remaining, that in<g ref="char:EOLhyphen"/>duced the King and Parliament thereto, <hi>viz. The Uniting the Hearts of the King's Subjects in Intereſt and Affection.</hi> It's Humbly Hoped they will, in their Great Wiſdom and Counſel, continue it; that every one, that lives Peaceably and Honeſtly, may en<g ref="char:EOLhyphen"/>joy his Undoubted Right, <hi>viz.</hi> A <hi>free Liberty of Conſcence, <hi>to ſerve the God that made him, in that way he is perſuaded is moſt agreeable to his Mind and Will.</hi>
+                  </hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:46474:20"/>
+         </div>
+      </body>
+   </text>
+</TEI>
